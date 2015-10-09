@@ -1,0 +1,224 @@
+A carga tributária bruta em um país corresponde a arrecadação total de tributos.
+A carga tributária líquida corresponde a carga tributária bruta descontada das 
+trasnferências governamentais.Estas incluem subsídios, juros da dívida interna
+assistência e previdência social, transferência de renda.
+
+A poupança do governo mostra a capacidade de investimento do governo.
+
+A diferença entre a poupança do governo e os investimentos é o deficit ou 
+superávit público.
+
+Quando ocorre déficit público, significa que o governo está fazendo
+política fiscal espansionista. Quando há superávit público, significa
+que o governo está fazendo política fiscal contracionista.
+
+	As duas principais maneiras de financiar o déficit público é a emissão de moeda 
+e a venda de títulos públicos ao setor privado. Este faz com que a poupança privada
+seja transferida a poupança pública. Já aquele faz com que a população pague pelo 
+o déficit público indiretamente.
+		A venda de títulos públicos traz uma nova categoria de gastos que é a rolagem da 
+	dívida, mas não provoca pressões inflacionárias adicionais.
+	
+	Déficit público não se confunde com a dívida pública, pois esta é o acumulado
+	de déficits públicos, sendo uma variável estoque, e aquela é o déficit público 
+	daquele exercício, sendo uma variável fluxo.
+	
+	Vale lembrar que a emissão de moeda pode ser caracterizada como venda de títulos
+	públicos ao banco central, ou monetização da dívida.
+	
+		A necessidade de financiamento do setor público foi uma nova forma de medir
+	a dívida pública, pois a antiga forma não contabilizava a administração indireta.
+		Assim, a necessidade de financiamento é soma de todas as necessidades não financeiras
+	do setor público.
+	
+	Existem duas médidas no setor público:
+		-A medição acima da linha
+			*Ocorre quando se mede o déficit com base
+			na execução orçamentária. Ou seja, a medição se dá
+			pelo o que foi auferido descontando o que foi gasto.
+		-A medição abaixo da linha	
+			è medido pela quantia que é preciso financiar para
+		pagar as contas do governo.
+		
+			A medição abaixo da linha é mais preferível, pois a medição acima da linha,
+		pelo seu alto detalhamento, pode apresentar falta de alguns dados, ou dados
+		incorretos. Mas algumas unidades orçamentárias, ainda preferem ela, pois permite
+		saber de onde veio o dinheiro e como ele foi gasto.
+		
+		O calculo oficial do BACEN utiliza somente os critérios abaixo da linha.
+		
+	Déficit nominal ou total:
+			Engloba qualquer necessidade de financiamento para suprir eventuais despesas.
+		Então o déficit nominal ou total é dado pelos gastos totais descontado das despesas
+		totais.
+	Déficit primário: É a diferença entre os gastos públicos e a arrecadação tributária
+		no exercício, independente de juros, correção monetária e cambial da dívida.
+		Assim podemos inferir que o déficit primário é o déficit nominal descontado
+		os juros e a correção monetária e cambial da dívida.
+	Déficit operacional: É a diferença entre os gastos públicos e a arrecadação 
+	tributária, independente de correção monetária e cambial da dívida.
+	Assim, podemos inferir que o déficit primário é o déficit operacional acrescentado
+	de juros reais.
+	
+	A taxa de juros real corresponde ao ganho em poder de compra. Assim, ela é calculada pela
+	a taxa de juros nominal menos a inflação.
+	
+	o conceito primário é o mais badalado nos noticiários, pois é ele que mostra
+	como está a politica fiscal do governo.
+	
+	A NFSP será sempre igual à variação da dívida pública.
+	
+	
+	Resultado nominal com desvalorização cambial é variação da dívida líquida do 
+	setor publico menos os ajustes patrimoniais, menos o impacto da variação cambial
+	sobre a dívida externa. Abrange a atualização monetária da dívida e também 
+	a variação cambial, os juros nominais.
+	
+	Os juros incidentes sobre a dívida líquida, dependem do nível de taxa de juros 
+	nominal e do estoque de dívida. Assim, a inclusão dos juros no resultado, torna 
+	dificil a mensuração do efeito da política fiscal executava pelo governo. Assim, 
+	deve ser utilizado o resultado primário, quando se quer mensurar o resultado
+	da politica fiscal em um exercicio.
+	
+	------------------------------------------------------------------------------
+	
+	Regime de competência: os fatos contábeis são registrados de acordo com o périodo
+	em que ocorrer o fato gerador.
+	Regime de caixa: o fato contábil é registrado no momento em que se ocorre o efetivo 
+	pagamento ou recebimento de um pagamento.
+	
+	NSFP é registrada de forma híbrida, pois os juros são registrado conforme o 
+	regime de competência. E o resultado primário é conforme o regime de caixa.
+	Note que o resultado operacional, também será realizado com o regime híbrido,
+	pois no resultado operacional os juros reais são contabilizados.
+	
+	O conceito de setor público utilizado para mensuração da dívida líquida e do 
+	déficit público é o do setor público não financeiro(aqui entra
+	administração direta, administração indireta exceto entidades financeiras,
+	sistema público de previdência social e também a ITAIPU
+	Binacional e também os fundos públicos 
+	cuja fonte de recursos é feita através de 
+	contribuições fiscais e parafiscais (todos os entes entram qui)) mais banco central.
+	
+	O resultado do BACEN é incluído na apuração da dívida líquida pois o seu resultado é
+	transferido imediatamente para o tesouro nacional.Assim, o caixa do BACEN é sempre 
+	igual a zero. Além desse fato, temos que o bacen é arrecadador de imposto inflacionário.
+	
+	a base monetária faz parte do passivo financeiro do BACEN.
+	
+		Como o bacen integra a dívida líquida do setor público, o passivo e o ativo do bacen
+	é computado. Assim, podemos inferir que a base monetária é calculada como passivo na 
+	divida líquida do setor publico.E também, podemos inferir que o ativo do bacen, também
+	é calculado, então as reservas internacionais, redescontos e outros empréstimos entram
+	no calculo da dívida líquida do setor público.
+	
+	
+	a contabilização da dívida líquida segue o regime de competência.
+	***
+	**Dívida pública do governo geral abrange o total dos débitos de responsabilidade
+	**do governo federal, municipal e estadual junto ao setor privado, ao setor publico
+	**financeiro, ao BACEN e ao resto do mundo. Aqui não entra as empresas estatais das 
+	**três esferas de governo. São deduzidos da dívida publica federal, os titulos publicos
+	**que se encontram em seu poder.Tais como as aplicações do fat, da previdência social.
+	** além deles, são excluidos também as parcelas correspodnentes aos títulos em tesouraria.
+	
+	
+		Operações denominadas compromissadas no sistema financeiro, é quando algum orgão vende 
+	um título se comprometendo a recompra-lo após um determinado período.
+------------------------------------------------------------------------------------------
+	Sustentabilidade do envididamento público.
+	
+	A sustentabilidade do envididamento público é através da relação dívida / PIB
+	
+	Conceitos: 
+		-Solvência 
+			A condição de solvência requer que a previsão de receitas (presentes e futuras)
+			seja maior do que a previsão de despesas(presentes e futuras).
+		-Liquidez
+			Uma entidade é líquida se os seus ativos e os financiamentos disponibilizados
+			pelo o mercado são suficientes para o pagamento e/ou rolagem do serviços e 
+			amortização de suas dívidas.
+		-Sustentabilidade
+			é dita sustentável se satisfaz as condições de solvência sem que sejam feitas
+			maiores correções em suas receitas e/ou gastos dados os custos de financiamento
+			que ela encara no mercado.
+		-Vulnerabilidade
+				É o risco de que as condições de solvência e liquidez sejam violadas e a
+			entidade devedora entre em crise.
+		
+			
+		*argumento de bohn
+			Se o resultado primário responder bem ao acréscimo na dívida pública,
+			então, a dívida pública pode ser vista como sustentável.
+			
+			
+RECEITA DE SENHORIAGEM É A EMISSÃO DE MOEDA.
+
+--------------------------------------------------
+historia da relação dívida pública / pib
+
+	1981-1984
+		-Houve elevação da dívida pública e um deficit fiscal foorte,
+			único da decada de 80 que ouve elevação.
+	1985-1988
+		-Houve um déficit fiscal forte, mas a dívida pública caiu em relação ao PIB,
+		isso se deve as receitas de senhoriagem, aumento do pib, e a subindexação 
+		da dívida passada por causa da inflação.
+	1990-1994
+		O pib cresceu pouco, mas a dívida pública continuou caindo devido aos impostos
+		inflacionários. E também, em 1994, brasil selou um acordo da dívida externa,
+		que implicou cancelamento de parte da dívida.
+		Dívida pública em 30% do pib
+	1995-1998
+		A dívida pública aumenta devido a altos déficits fiscais,redução da receita
+		de senhoriagem, e também dos altos juros.
+	1999-2003
+		Dívida pública aumenta. Brasil empreende esforço no alcance de metas de
+		superávits primários, mas a dívida ainda aumenta por conta dos ajustes 
+		patrimoniais, provocados pelo o impacto das desvalorizações cambiais.
+		Inicio de 2003 a divida chegou a 60%.
+	entre 2003 e 2006
+		relação dívida/pib volta a diminuir
+		Neste período, o superávit primário aumenta e o câmbio é apreciado.
+		No caso do governo lula, os ajustes patrimoniais(provocados pela a apreciação cambial)
+		reduziu a dívida pública.
+	após 2006
+		A relação da dívida continuou caindo.
+		devido aos superávits primários e o crescimento da economia brasileira(aumento
+		do pib)
+	de 2006 a 2010
+		ouve apenas um ponto em que a dívida voltou a crescer, que foi no ano de 2009,
+		logo após a crise financeira. A apreciação do real, fez a divida pública aumentar.
+		(pois quando há apreciação da moeda, o que voce vai receber dos outros países
+		vai gerar menos reais)
+	de 2011 a 2014
+		A DLSP caiu até 2013. Mas voltou a subir em 2014(pior que o brasil já teve 
+		desde 2001).
+		
+------------------------------------------
+	Efeito patinkin (adiar os pagamentos por parte do governo)
+-------------------------------------------
+	
+	o único motivo para se dar limitação de empenho é a frustração
+	na arrecadação de receitas.
+	
+--------------------------------------------
+casos de recondução da divida consolidade aos limites:
+
+se já no primeiro quadrimestre no ultimo ano do mandato do
+chefe do poder executivo. as restrições são aplicadas imediatamente
+
+em caso de estado de defesa ou sítio ou calamidade publica
+enquanto perdurar a situação, serão suspensas a contagem dos prazos
+e as disposiões estabelecidades.
+
+Crescimento do PIB nacional estadual ou municipal, negativo, ou abaixo
+de 1%, por 4 quadrimestres consecutivos. Os prazos para recondução da divida
+ao limite, serão duplicados.
+
+mudanças drasticas na condução das políticas monetaria e cambial, reconhecidas
+pelo o senador federal, o prazo poderá ser amplicado em até 4 quadrimestres.
+
+a compra de títulos da dívida pública por entidade financeira pública,
+só pode acontecer na mão de terceiros, mercado secundário.
+Não pode acontecer diretamente na união

@@ -1,0 +1,12 @@
+virgulas:
+	orações coordenadas aditivas se utiliza virgulas:
+			-Era um homem afeito às pescarias, e eu fazia
+		de tudo para acompanhá-lo.
+	
+	orações coordenadas alternativas:
+			-Serei o novo chefe, ou sairei dessa empresa.
+			
+	separar orações intercaladas:
+		-Assim não pode, assim não dá, disse o ex-presidente da 
+		república.
+		-Fiz o que o professor mandou, afirmou o jogador.

@@ -1,0 +1,4 @@
+	A principal diferença entre soa e webservices não está apenas 
+no nome. Enquanto o soa é uma filosofia, um modo de organizar 
+as diversas funcionalidades de uma organização, o webservice é 
+um modo de comunicação entre sistemas.

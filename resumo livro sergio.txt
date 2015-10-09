@@ -120,7 +120,7 @@ para finalidade diversa da programada. Esta prática desfavorecia a viabilidade e
 dos fundos.
 
 A LDO também conterá anexo de riscos fiscais, em que será avaliados passivos contingentes
-e outros riscos capazes de afetas as contas públicas.
+e outros riscos capazes de afetar as contas públicas.
 
 	Estes outros riscos capazes de afetar as contas públicas, que são riscos fiscais, podem
 ser divididos em dois tipos: Riscos orçamentários e riscos da dívida. Onde estes provém 

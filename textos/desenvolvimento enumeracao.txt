@@ -1,0 +1,5 @@
+O soa, alem de outras caracteristicas, possui 
+baixo acomplamento e alta coesão: O primeiro 
+corresponde ao quanto um serviço depende de outro,
+já o segundo é o quanto o serviço é autonomo.
+	

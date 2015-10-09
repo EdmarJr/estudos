@@ -1,0 +1,144 @@
+direitos sobre a propriedade privada interioriza custos e 
+beneficios e leva uma eficiencia econômica.
+
+A ausencia de direitos de propriedade resulta
+naquilo que é denominado tragédia dos comuns
+(ou tragédia de uso comum)
+
+Teorema de coase é o exemplo da cerva e os custos do prejuizo.
+O teorema de coase mostra que, não havendo custos de transação,
+os agentes privados podem negociar/barganhar e atingir alocações
+eficientes, eliminando o problema das externalidades.
+
+o custo de transação é o custo que alguem tem para corrigir uma
+externalidade.
+
+Uma das políticas públicas que podem ajustar as externalidades,
+no caso de uma empresa poluidora, é a seguinte:
+	-Limite para poluição
+		*Nesse caso, existe um limite de poluição que,se ultrapassado,
+		pode ocasionar multas pesadas.
+		Esse tipo de política pública traz para o governo uma maior certeza 
+		no nível de poluição encontrada. Mas traz incerteza dos custos que as 
+		empresas terão de arcar para aumentar sua produção. Pois com o aumento
+		da produção, os poluentes também aumentam, e provavelmente o limite seja
+		ultrapassado. Assim, a empresa terá de investir em equipamentos para 
+		diminuir a poluição.
+	-Taxa sobre emissão de poluentes (Imposto de PIGOU)
+		*O imposto de pigou apresenta efeitos positivos em
+		cima da eficiência econômica.
+		*A taxa sobre emissão de poluntes geralmente é utilizada quando se 
+		tem informações sobre os custos e os beneficios para a diminuição
+		das externalidades(poluição) por parte das empresas.
+		Mas o ruim das taxas é que não se tem uma certeza de qual vai
+		ser os níveis presentes de poluição.
+		Mas tem caracteristicas boas, que é a internalização dos custos
+		de poluição. O que favorece a eficiência econômica.
+		obs: As taxas tem uma caracteristica boa, que é a arrecadação de mais
+		dinheiro pro estado.
+		
+		O contrário também é valido. Se temos um atividade que tem externalidade 
+		positiva, o governo pode entrar com subsídios para promover ainda mais
+		essa atividade. Isso é o chamado Subsídio de pigou ou Imposto Pigouviano 
+		negativo.
+		Note que isso também favorece o mercado a uma eficiência econômica, pois
+		internaliza os custos e os benefícios.
+	-Emissão de licenças negociáveis para poluir
+		O governo negocia(vende) licenças para poluição no mercado.
+		
+	
+
+Os bens públicos são aqueles não rivais e não exclusivos.
+	-não rivalidade
+			A não rivalidade é o mesmo que dizer que o bem é indivisível ou 
+		não disputável.
+			A não rivalidade significa que para promover o bem para um
+		consumidor adicional, o custo é nulo.
+	-não exclusivos
+			Mostra que não é possível excluir uma pessoa de utilizar o
+		bem público.
+		
+Os bens públicos apresentam falha de mercado, pois não é possível inferir
+a quantidade de beneficio que uma pessoa usufrui dele.
+Nesse caso entram os caronas, que são pessoas que não pagam pelo o bem público 
+através de impostos, mas o utilizam.
+
+Existem também os bens meritórios(bens semi públicos), que são os bens que apresentam ou a exclusivadade,
+ou a rivalidade. Aqui entra a saúde,educação e tal.
+Eles são chamados de bens meritórios, porque são de grande valia para o cidadão.
+E excluir os cidadãos com base no preço, seria injusto.
+
+O quesito de bem público está apenas na não exclusividade e na não rivalidade.
+Não entra no quesito, se o bem é produzido pelo o governo ou por empresas privadas.
+
+Quando o governo produz bens públicos ou semi-publicos ele está dentro
+da sua função alocativa.
+
+A informação assimétrica gera, nas relações econômicas, a seleção adversa e o
+risco moral.
+	-seleção adversa é um problema pré-contratual
+		Os compradores não sabem acerca da procedência do produto.
+			Então corre o risco de os carros ruins serem vendidos, e os carros bons
+		não serem vendidos.
+			E ainda o comprador pode querer pagar o preço de um carro ruim em um carro
+			bom, por causa da informação assimétrica.
+		Então, note que os honestos são prejudicados.
+		O problema da seleção adversa é que ela distorce os preços do mercado,
+		e assim o resultado é bem diferente do encontrado em um mercado competitivo.
+		Então aqui, os bons pagam pelos maus.
+	-risco moral
+		*acontece no pós contratual.
+		É quando o consumidor modifica seu comportamento após o contrato.
+		No caso dos seguros de carro, ele fica mais relaxado com o carro.
+	-Teoria da agência
+		*acontece quando um determinado patrão, não tem as informações necessárias
+		para acompanhar seus empregados. Assim, os empregados podem trabalhar visando
+		seu próprio benefício em detrimento dos beneficios gerados para a empresa.
+	-Teoria da captura 
+			É a hipotese que sustenta que as empresas reguladoras vão visar o beneficio
+		das empresas reguladas em detrimento do beneficio do povo.
+			Isso pode acontecer porque o grupo de empresas reguladas pode ser mais organizado
+		que o grupo de cidadãos.
+			Também pode acontecer que com o apoio de empresas reguladas, um representante deles
+		consiga chegar ao poder de uma empresa reguladora.
+		
+
+INFLAÇÃO É O AUMENTO GENERALIZADO DE PREÇOS.
+DESEMPREGO É O ALTO NÚMERO DE PESSOAS QUE QUER TRABALHAR,
+MAS NÃO ENCONTRA EMPREGO.
+
+Então podemos concluir que a função alocativa do estado é 
+representada por qualquer ação em que o estado interfere na economia
+visando levar ela a eficiência econômica, tratando externalidades e falhas 
+de mercado.
+
+Função alocativa:
+	-Produção de bens públicos
+	-Redução de externalidades negativas
+	-Incentivo às externalidades positivas
+	-Redução de assimetrias de informação
+	-Melhorias na alocação e re-alocação de recursos
+	(alteração na oferta das empresas privadas)
+	-Melhoria da eficiência econômica.
+	-Combate à concentração de mercado (redução do
+	poder de mercado).
+	
+Função distributiva diz respeito a distribuição de riqueza 
+ideal, baseado em crenças, valores e premissas que determinem
+essa distribuição.
+	O governo utiliza elas quando faz: tributos progressivos,
+	transferências, salário mínimo, subsídios, proteção tarifária,
+	renúncia fiscal.
+	
+Função estabilizadora ocorre quando o governo interfere na economia
+visando corrigir a estabilidade econômica, atuando na taxa de desemprego,
+inflação e outros. Aqui o governo utiliza politicas fiscais e monetárias,
+visando à manutenção de níveis adequados de emprego, renda, inflação,
+taxa de cambio, contas externas, endividamento público. 
+Pode ser chamada de anti-cíclica. POis o governo adota medidas para controlar
+ou ir contra o ciclo. Asssim, se a economia cresce demais, o governo adota
+medidas para conter esse crescimento. O contrário também é valido.
+
+O seguro desemprego é um estabilizador automático, pois quando ocorre demissão
+em grande quantidade, ele é um seguro que garante que a demanda da economia não 
+tenha grande queda.
