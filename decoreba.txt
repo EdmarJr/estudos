@@ -1,0 +1,118 @@
+São objetivos do decreto de programação orçamentária 
+e financeira:
+	-Estabelecer normas específicas de execução orçamentária
+	e financeira para o exercício.
+	-Estabelecer um cronograma de compromisso e de liberação
+	dos recursos financeiro para o governo federal
+	-Cumprir a legislação orçamentária
+	-Assegurar o equilíbrio entre receitas e despesas ao longo
+	do exercício financeiro e proporcionar o cumprimento da meta
+	de resultado primário
+
+	Art. 29. Caberá aos órgãos de contabilidade ou de arrecadação 
+	organizar demonstrações mensais da receita arrecadada, segundo 
+	as rubricas, para servirem de base a estimativa da receita, na proposta orçamentária.
+	Lei 4320/64.
+	
+	Art. 53. O lançamento da receita é ato da repartição competente, que verifica a procedência 
+	do crédito fiscal e a pessoa que lhe é devedora e inscreve o débito desta.
+	Lei 4320/64.
+	
+	Art. 142. Compete privativamente à autoridade administrativa constituir o crédito
+	tributário pelo lançamento, assim entendido o procedimento administrativo tendente
+	a verificar a ocorrência do fato gerador da obrigação correspondente, determinar
+	a matéria tributável, calcular o montante do tributo devido, identificar o sujeito
+	passivo e, sendo caso, propor a aplicação da penalidade cabível.
+	CTN
+	
+	Art. 55. Os agentes da arrecadação devem fornecer recibos das importâncias que arrecadarem.
+	§ 1º Os recibos devem conter o nome da pessoa que paga a soma arrecadada, 
+	proveniência e 
+	classificação, bem como a data a assinatura do agente arrecadador.
+	§ 2º Os recibos serão fornecidos em uma única via.
+	lei 4320/64
+	
+		O recolhimento de todas as receitas far-se-á em estrita observância ao princípio de
+	unidade de tesouraria, vedada qualquer fragmentação para criação de caixas especiais.
+	lei 4320/64
+	
+		O empenho de despesa é o ato emanado de autoridade competente que cria para o Estado 
+	obrigação de pagamento pendente ou não de implemento de condição.
+	lei 4320/64
+	
+	Art. 59 - O empenho da despesa não poderá exceder o limite dos créditos concedidos.
+	lei 4320/64
+	
+	Art. 60. É vedada a realização de despesa sem prévio empenho.
+	§ 1º Em casos especiais previstos na legislação específica será dispensada 
+	a emissão da nota de empenho.
+	§ 2º Será feito por estimativa o empenho da despesa cujo montante não se 
+	possa determinar.
+	§ 3º É permitido o empenho global de despesas contratuais e outras, 
+	sujeitas a parcelamento.
+	lei 4320/64
+	
+	Art . 24. É vedada a realização de despesa sem prévio empenho (Lei nº 4.320/64, art. 60).
+	Parágrafo único. Em caso de urgência caracterizada na legislação em vigor, 
+	admitir-se-á que o ato do empenho seja contemporâneo à realização da despesa.
+	decreto 93872
+	
+	Art. 35. O empenho de despesa não liquidada será considerado anulado em 31 de dezembro, 
+	para todos os fins, salvo quando:
+	I - vigente o prazo para cumprimento da obrigação assumida
+	pelo credor, nele estabelecida;
+	II - vencido o prazo de que trata o item anterior, mas esteja em 
+	cursos a liquidação da despesa, ou seja de interesse da Administração
+	exigir o cumprimento da obrigação assumida pelo credor;
+	III - se destinar a atender transferências a instituições públicas ou privadas;
+	IV - corresponder a compromissos assumido no exterior.
+	decreto 93872
+	
+	Art . 27. As despesas relativas a contratos, convênios, acordos ou ajustes de vigência 
+	plurianual, serão empenhadas em cada exercício financeiro pela parte nele a ser
+	executada.
+	decreto 93872
+	
+	Art . 28. A redução ou cancelamento no exercício financeiro, de compromisso que 
+	caracterizou o empenho, implicará sua anulação parcial ou total, revertendo a 
+	importância correspondente à respectiva dotação, pela qual ficará automaticamente 
+	desonerado o limite de saques da unidade gestora.
+	decreto 93872
+	
+	Art. 62. O pagamento da despesa só será efetuado quando
+	ordenado após sua regular liquidação.
+	lei 4320/64
+	
+	Art. 64. A ordem de pagamento é o despacho exarado por autoridade competente,
+	determinando que a despesa seja paga.
+	4320/64
+	
+	Art. 59 - O empenho da despesa não poderá exceder o limite dos créditos concedidos. 
+	4320/64
+	
+	Art. 38 Não será permitido o pagamento antecipado de fornecimento de materiais, execução
+	de obra, ou prestação de serviço, inclusive de utilidade pública, admitindo-se, 
+	todavia, mediante as indispensáveis cautelas ou garantias, o pagamento de parcela
+	contratual na vigência do respectivo contrato, convênio, acordo ou ajuste, segundo
+	a forma de pagamento nele estabelecida, prevista no edital de licitação ou nos 
+	instrumentos formais de adjudicação direta.
+	decreto 93872
+	
+	A liquidação da despesa consiste na verificação do direito adquirido pelo credor tendo
+	por base os títulos e documentos comprobatórios do respectivo crédito. (nao ta em lei,
+	livro sergio)
+	
+	A liquidação tem por finalidade reconhecer ou apurar a origem e o objeto do que se deve
+	pagar; a importância exata a pagar; a quem se deve pagar a importância para extiguir
+	a obrigação. (ORIBJETO AQUEM IMPORTÂNCIA)
+	
+	Art. 35. Pertencem ao exercício financeiro:
+	I - as receitas nêle arrecadadas;
+	II - as despesas nêle legalmente empenhadas.
+	lei 4320/64
+	
+	******
+	I - encargos e condições de contratação; (encacoco)
+    II - saldos atualizados e limites relativos às dívidas consolidada e mobiliária, operações de crédito e concessão de garantias.
+	(salatual limite)
+	**********
