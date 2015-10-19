@@ -1,0 +1,59 @@
+	A despesa pública é divida em estágios os quais devem ser seguidos com rigor.
+		São eles: fixação, empenho, liquidação e pagamento. Atualmente tem-se percebido
+	o pré-empenho. Este é um procedimento para reserva de créditos, utilizado em 
+	casos de licitação e outros processos mais demorados. Mas a doutrina majoritária
+	não o tem classificado como parte dos estágios da despesa. Também temos o caso
+	da licitação, que não tem uma decisão firmada a respeito,por alguns são considerados 
+	um estágio da despesa, já por outros, parte do empenho.
+		A fixação insere-se no planejamento e vem relacionado ao princípio
+	do equílibrio. Este dispõe que as despesas autorizadas não serão maiores do que 
+	a previsão das receitas.  A fixação é o processo em que vão ser definidas as despesas
+	de um exercício financeiro. Ela termina com a autorização dada pelo o poder legislativo
+	por meio da lei orçamentária anual.
+		O empenho, segundo a legislação, é o ato emanado por autoridade competente que 
+	cria obrigação de pagamento ao estado pendente ou não de implemento de condição.
+	Assim, o empenho é uma garantia ao fornecedor.
+		Segundo a legislação aplicavél, é vedado a realização de despesa sem o prévio empenho.
+	Ela também declara que o valor do empenho não poderá exceder o limite dos créditos concedidos.
+	Assim, além dos já citados, o empenho também tem um papel importante que é o controle dos 
+	gastos.Esse controle dos gastos é confirmado quando a lei de responsabilidade fiscal declara que 
+	,quando verificado ao final de um bimestre que a receita realizada poderá não comportar o resultado 
+	primário e o resultado nominal definido no anexo de metas fiscais, os poderes e o ministério público
+	promoverão nos próximos 30 dias subsequentes limitação de empenho e movimentação financeira.
+		A materialização do empenho é a nota de empenho. Esta é um documento extraído para
+	cada empenho que indica o nome do credor, a especificação e o valor da despesa, bem como
+	a dedução desse valor do saldo da dotação própria. A nota de empenho pode ser ser dispensada
+	em casos especiais previstos na legislação específica.
+		O empenho é classificado em 3 tipos. São eles: ordinário,global, estimado.
+	O primeiro é para as despesas que já tem o montante previamente conhecido, 
+	e cujo o pagamento aconteçã de uma só vez. O segundo é para as despesas 
+	que também já tenha um montante previamente definido, a diferença é na forma de pagamento
+	que são sujeitas ao parcelamento. O terceiro é para as despesas que não possuem
+	um montante previamente conhecido, sendo registrado por estimativa.
+		Os empenhos não liquidados até o final do exercício serão anulados, exceto nos
+	seguintes casos: Vigente o prazo para cumprimento da obrigação assumida pelo credor; 
+	Vencido o prazo, mas esteja curso a liquidação da despesa; Administração pública
+	tenha interesse em exigir o cumprimento da obrigação assumida pelo credor;
+	Empenho destinado a atender instituições públicas ou privadas; 
+	Empenho corresponde à compromissos assumidos no exterior.
+		Mesmo diante do empenho, o estado não se vê na obrigação de pagar, isso porquê
+	o objeto depende de implemento de condição.
+		Quando ocorrer a redução ou cancelamento de empenho no exercício financeiro,
+	a importância correspondente será revertida à respectiva dotação orçamentária.
+		A liquidação é o processo de verificação do produto, obra, serviço a ser entregue.
+	A liquidação da despesa consiste na verificação do direito adquirido pelo credor tendo
+	por base os títulos e documentos comprobatórios do respectivo crédito.
+	A liquidação tem por finalidade reconhecer ou apurar a origem e o objeto do que se deve
+	pagar; a importância exata a pagar; a quem se deve pagar a importância para extiguir
+	a obrigação.
+		O pagamento é a etapa de entrega do numerário ao credor e só será efetuado
+	após a liquidação. Essa entrega de numerário pode acontecer via ordem bancária
+	registrada no SIAFI.
+		
+		
+	
+	
+		
+
+		
+		
