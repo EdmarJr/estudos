@@ -6,3 +6,20 @@ exception
 meses
 moneticia
 judicial
+
+
+	A lei orçamentária anual será elaborada de forma compatível com a Lei de Diretrizes Orçamentárias,
+Plano Plurianual, e as normas da Lei de Responsabilidade Fiscal.
+	
+A lei orçamentária anual conterá:
+	Demonstrativo regionalizado de efeito, sobre as receitas e despesas, decorrente das isenções,
+remissões e outros similares, bem como de medidas de compensação para a renúncia de receitas e 
+o aumento das despesas obrigatória de caráter continuado.
+
+objeto
+rereo
+restabelecimento
+exception rereo
+meses
+bacen
+		
