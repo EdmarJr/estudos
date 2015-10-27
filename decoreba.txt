@@ -1,129 +1,156 @@
-São objetivos do decreto de programação orçamentária 
+SÃ£o objetivos do decreto de programaÃ§Ã£o orÃ§amentÃ¡ria 
 e financeira:
-	-Estabelecer normas específicas de execução orçamentária
-	e financeira para o exercício.
-	-Estabelecer um cronograma de compromisso e de liberação
+	-Estabelecer normas especÃ­ficas de execuÃ§Ã£o orÃ§amentÃ¡ria
+	e financeira para o exercÃ­cio.
+	-Estabelecer um cronograma de compromisso e de liberaÃ§Ã£o
 	dos recursos financeiro para o governo federal
-	-Cumprir a legislação orçamentária
-	-Assegurar o equilíbrio entre receitas e despesas ao longo
-	do exercício financeiro e proporcionar o cumprimento da meta
-	de resultado primário
+	-Cumprir a legislaÃ§Ã£o orÃ§amentÃ¡ria
+	-Assegurar o equilÃ­brio entre receitas e despesas ao longo
+	do exercÃ­cio financeiro e proporcionar o cumprimento da meta
+	de resultado primÃ¡rio
 
-	Art. 29. Caberá aos órgãos de contabilidade ou de arrecadação 
-	organizar demonstrações mensais da receita arrecadada, segundo 
-	as rubricas, para servirem de base a estimativa da receita, na proposta orçamentária.
+	Art. 29. CaberÃ¡ aos Ã³rgÃ£os de contabilidade ou de arrecadaÃ§Ã£o 
+	organizar demonstraÃ§Ãµes mensais da receita arrecadada, segundo 
+	as rubricas, para servirem de base a estimativa da receita, na proposta orÃ§amentÃ¡ria.
 	Lei 4320/64.
 	
-	Art. 53. O lançamento da receita é ato da repartição competente, que verifica a procedência 
-	do crédito fiscal e a pessoa que lhe é devedora e inscreve o débito desta.
+	Art. 53. O lanÃ§amento da receita Ã© ato da repartiÃ§Ã£o competente, que verifica a procedÃªncia 
+	do crÃ©dito fiscal e a pessoa que lhe Ã© devedora e inscreve o dÃ©bito desta.
 	Lei 4320/64.
 	
-	Art. 142. Compete privativamente à autoridade administrativa constituir o crédito
-	tributário pelo lançamento, assim entendido o procedimento administrativo tendente
-	a verificar a ocorrência do fato gerador da obrigação correspondente, determinar
-	a matéria tributável, calcular o montante do tributo devido, identificar o sujeito
-	passivo e, sendo caso, propor a aplicação da penalidade cabível.
+	Art. 142. Compete privativamente Ã  autoridade administrativa constituir o crÃ©dito
+	tributÃ¡rio pelo lanÃ§amento, assim entendido o procedimento administrativo tendente
+	a verificar a ocorrÃªncia do fato gerador da obrigaÃ§Ã£o correspondente, determinar
+	a matÃ©ria tributÃ¡vel, calcular o montante do tributo devido, identificar o sujeito
+	passivo e, sendo caso, propor a aplicaÃ§Ã£o da penalidade cabÃ­vel.
 	CTN
 	
-	Art. 55. Os agentes da arrecadação devem fornecer recibos das importâncias que arrecadarem.
-	§ 1º Os recibos devem conter o nome da pessoa que paga a soma arrecadada, 
-	proveniência e 
-	classificação, bem como a data a assinatura do agente arrecadador.
-	§ 2º Os recibos serão fornecidos em uma única via.
+	Art. 55. Os agentes da arrecadaÃ§Ã£o devem fornecer recibos das importÃ¢ncias que arrecadarem.
+	Â§ 1Âº Os recibos devem conter o nome da pessoa que paga a soma arrecadada, 
+	proveniÃªncia e 
+	classificaÃ§Ã£o, bem como a data a assinatura do agente arrecadador.
+	Â§ 2Âº Os recibos serÃ£o fornecidos em uma Ãºnica via.
 	lei 4320/64
 	
-		O recolhimento de todas as receitas far-se-á em estrita observância ao princípio de
-	unidade de tesouraria, vedada qualquer fragmentação para criação de caixas especiais.
+		O recolhimento de todas as receitas far-se-Ã¡ em estrita observÃ¢ncia ao princÃ­pio de
+	unidade de tesouraria, vedada qualquer fragmentaÃ§Ã£o para criaÃ§Ã£o de caixas especiais.
 	lei 4320/64
 	
-		O empenho de despesa é o ato emanado de autoridade competente que cria para o Estado 
-	obrigação de pagamento pendente ou não de implemento de condição.
+		O empenho de despesa Ã© o ato emanado de autoridade competente que cria para o Estado 
+	obrigaÃ§Ã£o de pagamento pendente ou nÃ£o de implemento de condiÃ§Ã£o.
 	lei 4320/64
 	
-	Art. 59 - O empenho da despesa não poderá exceder o limite dos créditos concedidos.
+	Art. 59 - O empenho da despesa nÃ£o poderÃ¡ exceder o limite dos crÃ©ditos concedidos.
 	lei 4320/64
 	
-	Art. 60. É vedada a realização de despesa sem prévio empenho.
-	§ 1º Em casos especiais previstos na legislação específica será dispensada 
-	a emissão da nota de empenho.
-	§ 2º Será feito por estimativa o empenho da despesa cujo montante não se 
+	Art. 60. Ã‰ vedada a realizaÃ§Ã£o de despesa sem prÃ©vio empenho.
+	Â§ 1Âº Em casos especiais previstos na legislaÃ§Ã£o especÃ­fica serÃ¡ dispensada 
+	a emissÃ£o da nota de empenho.
+	Â§ 2Âº SerÃ¡ feito por estimativa o empenho da despesa cujo montante nÃ£o se 
 	possa determinar.
-	§ 3º É permitido o empenho global de despesas contratuais e outras, 
+	Â§ 3Âº Ã‰ permitido o empenho global de despesas contratuais e outras, 
 	sujeitas a parcelamento.
 	lei 4320/64
 	
-	Art . 24. É vedada a realização de despesa sem prévio empenho (Lei nº 4.320/64, art. 60).
-	Parágrafo único. Em caso de urgência caracterizada na legislação em vigor, 
-	admitir-se-á que o ato do empenho seja contemporâneo à realização da despesa.
+	Art . 24. Ã‰ vedada a realizaÃ§Ã£o de despesa sem prÃ©vio empenho (Lei nÂº 4.320/64, art. 60).
+	ParÃ¡grafo Ãºnico. Em caso de urgÃªncia caracterizada na legislaÃ§Ã£o em vigor, 
+	admitir-se-Ã¡ que o ato do empenho seja contemporÃ¢neo Ã  realizaÃ§Ã£o da despesa.
 	decreto 93872
 	
-	Art. 35. O empenho de despesa não liquidada será considerado anulado em 31 de dezembro, 
+	Art. 35. O empenho de despesa nÃ£o liquidada serÃ¡ considerado anulado em 31 de dezembro, 
 	para todos os fins, salvo quando:
-	I - vigente o prazo para cumprimento da obrigação assumida
+	I - vigente o prazo para cumprimento da obrigaÃ§Ã£o assumida
 	pelo credor, nele estabelecida;
 	II - vencido o prazo de que trata o item anterior, mas esteja em 
-	cursos a liquidação da despesa, ou seja de interesse da Administração
-	exigir o cumprimento da obrigação assumida pelo credor;
-	III - se destinar a atender transferências a instituições públicas ou privadas;
+	cursos a liquidaÃ§Ã£o da despesa, ou seja de interesse da AdministraÃ§Ã£o
+	exigir o cumprimento da obrigaÃ§Ã£o assumida pelo credor;
+	III - se destinar a atender transferÃªncias a instituiÃ§Ãµes pÃºblicas ou privadas;
 	IV - corresponder a compromissos assumido no exterior.
 	decreto 93872
 	
-	Art . 27. As despesas relativas a contratos, convênios, acordos ou ajustes de vigência 
-	plurianual, serão empenhadas em cada exercício financeiro pela parte nele a ser
+	Art . 27. As despesas relativas a contratos, convÃªnios, acordos ou ajustes de vigÃªncia 
+	plurianual, serÃ£o empenhadas em cada exercÃ­cio financeiro pela parte nele a ser
 	executada.
 	decreto 93872
 	
-	Art . 28. A redução ou cancelamento no exercício financeiro, de compromisso que 
-	caracterizou o empenho, implicará sua anulação parcial ou total, revertendo a 
-	importância correspondente à respectiva dotação, pela qual ficará automaticamente 
+	Art . 28. A reduÃ§Ã£o ou cancelamento no exercÃ­cio financeiro, de compromisso que 
+	caracterizou o empenho, implicarÃ¡ sua anulaÃ§Ã£o parcial ou total, revertendo a 
+	importÃ¢ncia correspondente Ã  respectiva dotaÃ§Ã£o, pela qual ficarÃ¡ automaticamente 
 	desonerado o limite de saques da unidade gestora.
 	decreto 93872
 	
-	Art. 62. O pagamento da despesa só será efetuado quando
-	ordenado após sua regular liquidação.
+	Art. 62. O pagamento da despesa sÃ³ serÃ¡ efetuado quando
+	ordenado apÃ³s sua regular liquidaÃ§Ã£o.
 	lei 4320/64
 	
-	Art. 64. A ordem de pagamento é o despacho exarado por autoridade competente,
+	Art. 64. A ordem de pagamento Ã© o despacho exarado por autoridade competente,
 	determinando que a despesa seja paga.
 	4320/64
 	
-	Art. 59 - O empenho da despesa não poderá exceder o limite dos créditos concedidos. 
+	Art. 59 - O empenho da despesa nÃ£o poderÃ¡ exceder o limite dos crÃ©ditos concedidos. 
 	4320/64
 	
-	Art. 38 Não será permitido o pagamento antecipado de fornecimento de materiais, execução
-	de obra, ou prestação de serviço, inclusive de utilidade pública, admitindo-se, 
-	todavia, mediante as indispensáveis cautelas ou garantias, o pagamento de parcela
-	contratual na vigência do respectivo contrato, convênio, acordo ou ajuste, segundo
-	a forma de pagamento nele estabelecida, prevista no edital de licitação ou nos 
-	instrumentos formais de adjudicação direta.
+	Art. 38 NÃ£o serÃ¡ permitido o pagamento antecipado de fornecimento de materiais, execuÃ§Ã£o
+	de obra, ou prestaÃ§Ã£o de serviÃ§o, inclusive de utilidade pÃºblica, admitindo-se, 
+	todavia, mediante as indispensÃ¡veis cautelas ou garantias, o pagamento de parcela
+	contratual na vigÃªncia do respectivo contrato, convÃªnio, acordo ou ajuste, segundo
+	a forma de pagamento nele estabelecida, prevista no edital de licitaÃ§Ã£o ou nos 
+	instrumentos formais de adjudicaÃ§Ã£o direta.
 	decreto 93872
 	
-	A liquidação da despesa consiste na verificação do direito adquirido pelo credor tendo
-	por base os títulos e documentos comprobatórios do respectivo crédito. (nao ta em lei,
+	A liquidaÃ§Ã£o da despesa consiste na verificaÃ§Ã£o do direito adquirido pelo credor tendo
+	por base os tÃ­tulos e documentos comprobatÃ³rios do respectivo crÃ©dito. (nao ta em lei,
 	livro sergio)
 	
-	A liquidação tem por finalidade reconhecer ou apurar a origem e o objeto do que se deve
-	pagar; a importância exata a pagar; a quem se deve pagar a importância para extiguir
-	a obrigação. (ORIBJETO AQUEM IMPORTÂNCIA)
+	A liquidaÃ§Ã£o tem por finalidade reconhecer ou apurar a origem e o objeto do que se deve
+	pagar; a importÃ¢ncia exata a pagar; a quem se deve pagar a importÃ¢ncia para extiguir
+	a obrigaÃ§Ã£o. (ORIBJETO AQUEM IMPORTÃ‚NCIA)
 	
-	Art. 35. Pertencem ao exercício financeiro:
-	I - as receitas nêle arrecadadas;
-	II - as despesas nêle legalmente empenhadas.
+	Art. 35. Pertencem ao exercÃ­cio financeiro:
+	I - as receitas nÃªle arrecadadas;
+	II - as despesas nÃªle legalmente empenhadas.
 	lei 4320/64
 	
 	******
-	I - encargos e condições de contratação; (encacoco)
-    II - saldos atualizados e limites relativos às dívidas consolidada e mobiliária, operações de crédito e concessão de garantias.
+	I - encargos e condiÃ§Ãµes de contrataÃ§Ã£o; (encacoco)
+    II - saldos atualizados e limites relativos Ã s dÃ­vidas consolidada e mobiliÃ¡ria, operaÃ§Ãµes de crÃ©dito e concessÃ£o de garantias.
 	(salatual limite)
-	**********
-
+	
 ************ fases do cascata
-Definição de requisitos - levantamento das necessidades
-Projeto de sistema e software - pensar no problema e na solução deste
-Implementação e teste unitário - desenvolvimento e testes necessários
+DefiniÃ§Ã£o de requisitos - levantamento das necessidades
+Projeto de sistema e software - pensar no problema e na soluÃ§Ã£o deste
+ImplementaÃ§Ã£o e teste unitÃ¡rio - desenvolvimento e testes necessÃ¡rios
 para o correto funcionamento do sistema
-Integração e teste de sistema - compor os modulos do sistema e simular o funcionamento
+IntegraÃ§Ã£o e teste de sistema - compor os modulos do sistema e simular o funcionamento
 do sistema na forma que seria executado
-Operação e manutenção - entrega do sistema e acompanhamento sobre
-o funcionamento e evolução do software
+OperaÃ§Ã£o e manutenÃ§Ã£o - entrega do sistema e acompanhamento sobre
+o funcionamento e evoluÃ§Ã£o do software
 *****************************
+
+**********
+	
+	SÃ£o crimes de resposabilidade os atos do presidente que atentem contra a 
+lei orÃ§amentÃ¡ria.
+
+JÃ¡ a espÃ©cie de orÃ§amento utilizada no Brasil Ã© a denominada
+de orÃ§amento-programa. Ã‰ um instrumento de planejamento da aÃ§Ã£o do governo,
+por meio da identificaÃ§Ã£o dos seus programas de trabalho, projetos e atividades,
+com estabelecimento de objetivos e metas a serem implementados e previsÃ£o dos
+custos relacionados. Com este modelo passa a existir um elo entre o planejamento e
+as funÃ§Ãµes executivas da organizaÃ§Ã£o. 
+
+O Plano Plurianual â€“ PPA Ã© o instrumento de planejamento do Governo Federal
+que estabelece, de forma regionalizada, as diretrizes, objetivos e metas da
+AdministraÃ§Ã£o PÃºblica Federal para as despesas de capital e outras delas
+decorrentes e para as relativas aos programas de duraÃ§Ã£o continuada. Retrata,
+em visÃ£o macro, as intenÃ§Ãµes do gestor pÃºblico para um perÃ­odo de quatro
+anos, podendo ser revisado, durante sua vigÃªncia, por meio de inclusÃ£o,
+exclusÃ£o ou alteraÃ§Ã£o de programas. 
+
+
+Art. 57. Ressalvado o disposto no parÃ¡grafo Ãºnico do artigo 3Âº desta lei serÃ£o classificadas como receita orÃ§amentÃ¡ria, sob as rubricas prÃ³prias, tÃ´das as receitas arrecadadas, inclusive as provenientes de operaÃ§Ãµes de crÃ©dito, ainda que nÃ£o
+previstas no OrÃ§amento.
+ lei 4320
+ 
+ Art. 3Âº A Lei de OrÃ§amentos compreenderÃ¡ tÃ´das as receitas, inclusive as de operaÃ§Ãµes de crÃ©dito autorizadas em lei.
+ lei 4320
