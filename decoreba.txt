@@ -116,3 +116,14 @@ e financeira:
     II - saldos atualizados e limites relativos às dívidas consolidada e mobiliária, operações de crédito e concessão de garantias.
 	(salatual limite)
 	**********
+
+************ fases do cascata
+Definição de requisitos - levantamento das necessidades
+Projeto de sistema e software - pensar no problema e na solução deste
+Implementação e teste unitário - desenvolvimento e testes necessários
+para o correto funcionamento do sistema
+Integração e teste de sistema - compor os modulos do sistema e simular o funcionamento
+do sistema na forma que seria executado
+Operação e manutenção - entrega do sistema e acompanhamento sobre
+o funcionamento e evolução do software
+*****************************

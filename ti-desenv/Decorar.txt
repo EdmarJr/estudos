@@ -1,0 +1,4 @@
+1-Definição,características e objetivos da APF
+	-É uma métrica orientada a função,independente de tecnologia e 
+tem por objetivo medir a complexidade funcional dos sistemas.
+	-
