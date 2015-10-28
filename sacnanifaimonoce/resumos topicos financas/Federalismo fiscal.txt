@@ -1,0 +1,106 @@
+O federalismo fiscal restringe o tipo de federalismo.
+O termo federalismo indica poder entre os níveis de governo.
+Já o federalismo fiscal é o poder de gastar e de arrecadar.
+Mais especificamente, o federalismo fiscal tem estreita relação
+com a arrecadação de impostos e a provisão de bens e serviços públicos.
+
+O pacto federativo garante uma melhor execução 
+das políticas públicas de que a sociedade tanto necessita.
+
+três abordagens que justificam o federalismo fiscal:
+	-Concorrência entre governos locais revela (TIEBOUT)	
+	as prefências das pessoas pelos bens públicos
+		*Charles tiebout argumente que a descentralização
+		poderia fazer com que os cidadãos relevassem suas preferências
+		por bens públicos.
+
+		*Charles tiebout Nos termos de eficiência econômica, ocorreria	
+		uma concorrência por parte dos governos para 
+		atrair uma maior população, assim, a descentralização
+		poderia se assemelhar a um mercado competitivo.
+		E mercados competitivos são naturalmente eficientes
+		do ponto de vista econômico.
+	-Cooperação entre níveis de governo aumenta a 
+	eficiência do setor público (WALLACE)
+			Segundo wallace oates, o federalismo fiscal é um
+		meio termo entre a administração total
+		Para oates, o federalismo é capaz de reunir
+		as vantages da centralizada e da descentralizada, ao mesmo tempo
+		que reduz as desvantagens de cada uma.
+	-Explicitação das externalidades
+		Para Roger Gordon, quanto mais for descentralizado 
+		forem as decisões, mais externalidades haverá e ,
+		consequentemente, menos eficiente será o mercado.
+		tal como: 	-exportação de tributos
+					-não considerar externalidades positivas (
+					é o caso da nascente que não é limpa)
+					-comportamento free rider por parte do governo
+					- no meu quintal, não
+						cada comunidade tenta se livrar de 
+						atividades econômicas que tragam consigo 
+						externalidades negativas.
+					-Desconsideração dos efeitos redistributivos de 
+					renda em outas jurisdições. ( caso do icms que não tem
+					acordo)
+					-regressividade tributária e do perfi de gastos
+						Os governos, no intuito de atrair os ricos,
+						aumentariam os impostos regressivos, para afugentar
+						os pobres e atrair os ricos.
+					-desconsideração de aumentos de custos dos governos 
+					de outras jurisdições
+					-guerra fiscal
+					
+a teoria do federalismo fiscal tenta
+maximizar os benefícios da concorrência (tiebout), da divisão de tarefas(
+wallace), e
+ao mesmo tempo minimizar as externalidades(gordon).
+					
+
+**************************************************
+um governo centralizado apresenta alguns 		 *
+problemas:										 *
+	-insensibilidade quanto a demanda            *
+	de diversas regiões
+	-menor fiscalização que o cidadão exerceria
+	sobre os gastos públicos.
+**************************************************
+
+DISTRIBUIÇÃO DE RECEITAS E ENCARGOS
+		critérios para determinal qual é o melhor
+	nível de governo para tributar determinado fato gerador.
+	
+	DISTRIB DE RECEITAS
+	a)Facilidade de se exportar o tributos
+	b)Mobilidade da base tributária 
+	c)Economia de escala na administração do tributos
+	d)Não induzir à alocação ineficiente de recursos econômicos
+	e)Associação do tributo pago a benefícios providos pelo governo
+		local
+	f)Viabilidade administrativa para cobrança do tributo.
+	
+
+	DISTRIBUIÇÃO DE GASTOS
+		Cada bem público deve ser provido pelo nível de governo
+	que represente de forma mais proxima a área de geografica que se
+	beneficia do bem.
+		Mas dentro disso devem ainda ser olhados alguns beneficios
+	associados, tais como:
+	
+		-Economias de escala
+		-Quão heterogêneas são as preferências locais
+		-Diversos tipos de externalidades envolvidas
+		-Amplitude geográfica das externalidades
+		-Capacidade financeira de cada nivel de governo
+		
+	
+		O bem público será ofertado pela união, estado ou municipio
+	segundo uma lógico do melhor custo/beneficio possível.
+	
+	
+		
+		
+		
+	
+
+
+	
