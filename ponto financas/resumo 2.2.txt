@@ -1,0 +1,7 @@
+Visando a eficiência econômica, a regra de ramsey estabelece que os produtos com maior inelasticidade devem ser 
+tributados de forma mais pesada do que os tributos com maior elasticidade, pois estes acabarão por criar um maior
+peso morto.
+
+	A curva de laffer busca demonstrar a existência de um nível ótimo
+de carga fiscal que maximizaria a arrecadação tributária e ao
+mesmo tempo não desestimularia o chamado trabalho formal.

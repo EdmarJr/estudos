@@ -1,0 +1,231 @@
+/* ------------- NOTICIAS*/
+.BENEA00204 #chapeu {	margin: 10px 0 20px 0;
+	display: block;	color: #919191;
+	font-size: 12px;}
+
+.noticia-header #noticia-olho{
+	font-size: 22px;
+	color: #828282;
+	text-align: left;
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+	margin: 0 0 30px 0;
+}
+.noticia-header #noticia-titulo{
+	font-size: 36px;
+	color: #242424;
+	text-align: left;
+	letter-spacing: -0.04em;
+	line-height: 1.2;
+	font-weight: bold;
+	font-family: "Georgia", Helvetica, Arial, sans-serif;
+	margin: 0 0 25px 0;
+}
+
+
+
+.BENEA00304{
+	padding: 0px 13px;
+	height: 44px;
+	background: url(http://s0.ejesa.ig.com.br/img/be/blanknoise.png);
+	border-top: 1px solid #ccc;
+	box-shadow: 0px 1px 0px #fff inset;
+	margin-bottom: 15px;
+}
+
+.BENEA00404 .news-hat{
+border-bottom: 1px solid #898989;
+padding: 13px;
+padding-left: 0px;
+}
+
+.BENEA00404 .news-hat .text{
+	color: #454545;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	font-size:24px;
+	margin-top: 20px;
+	font-family: "Georgia", Helvetica, Arial, sans-serif;
+	font-weight: 600;
+	line-height: 1.4;
+}
+.BENEA00404 .row ul{
+	float: left;
+	width: 100%;
+	margin-left:-30px;
+
+}
+.BENEA00404 .row ul li {
+	list-style: none;
+}
+.BENEA00404 .row ul li .headline .headline-title{
+	font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: "Georgia", Helvetica, Arial, sans-serif;
+	font-weight: 600;
+	line-height: 1.4;
+}
+.BENEA00404 .row ul li .headline .headline-eye{
+	font-size: 14px;
+	color: #828282;
+	margin: 10px 0 0 0;
+	font-family: Arial, sans-serif;
+
+}
+figcaption {
+	display: inline-block;
+	margin: 15px 20px;
+	font-size: 12px;
+	color: #333333 !important;
+	font-family: Arial, sans-serif;
+}
+.materias-recomendadas{
+	border-bottom:none !important;
+}
+
+
+a .sprites.look {
+background-position: 0 -110px;
+width: 21px;
+height: 21px;
+}
+
+.sprites {
+background: url(http://s0.ejesa.ig.com.br/img/be/sprite-menu.png);
+display: block;
+width: 21px;
+height: 21px;
+opacity: 0.6;
+transition: opacity ease-out 0.2s;
+}
+
+
+.sharing-materia-side {transition: all ease-in-out 0.5s; position: fixed; width: 90px; height: 500px; top: 170px; left: 0px; opacity: 1;   background: url(http://s0.ejesa.ig.com.br/img/be/blanknoise.png) repeat; border: 5px solid #fff; border-radius: 4px; text-align: center;}
+.sharing-materia-side ul {list-style: none; padding: 0px; margin: 0px;}
+.sharing-materia-side ul li {padding: 10px 0;}
+.sharing-materia-side ul li.separador a img {display: block; margin: 10px auto 5px auto; }
+.sharing-materia-side ul li.separador {border-top: 1px solid #ccc; box-shadow: 0 -1px 0 #fff;}
+.sharing-materia-side ul li a{color: #333; font-size: 12px;}
+
+@media (max-width: 1233px){
+	.sharing-materia-side {display: none !important; }
+}
+
+/* bloqueio de materias */
+
+.materia-bloqueada {margin-bottom: 30px;}
+
+.materia-bloqueada input[type="submit"] {
+
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2FkYWRhZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM2NzY3NjciIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background-color: #686868;
+	background: linear-gradient(to bottom, rgba(173,173,173,1) 0%,rgba(103,103,103,1) 100%); /* W3C */
+
+	display: block;
+	font-size: 16px;
+	font-weight: bold;
+	color: #fff;
+	padding: 8px 13px ;
+	margin-top: 30px ;
+	clear: both;
+	float: none;
+}
+.materia-bloqueada .col-md-6 input {width: 100%; height: 35px;  background: #fff; border:  1px solid #ddd;
+	color: #242424;
+	font-size: 12px;
+	padding-left: 5px;
+	margin: 13px 0;
+	-webkit-appearance: none;
+}
+.login-materias {padding: 10px 0 30px 0; color: #919191; font-size: 13px; font-family: Arial, sans-serif; }
+.login-materias img {float: left; margin: 10px 10px 10px 0;}
+.login-materias strong {display: block; color: #c94106; font-weight: bold;  font-size: 12px;}
+.login-materias a {color: #343434 !important; font-weight: bold;}
+.materia-bloqueada ::-webkit-input-placeholder { color:#505050; }
+.materia-bloqueada ::-moz-placeholder { color:#505050; }
+.materia-bloqueada :-ms-input-placeholder { color:#505050; }
+.materia-bloqueada input:-moz-placeholder { color:#505050; }
+.cadastro-materia h2 {font-size: 27px; color: #343434; margin: 0 0 15px 0; padding: 15px 0; font-weight: normal; border-bottom:  1px solid #888888;}
+.cadastro-materia p {color: #242424; font-size:  14px; font-family: Arial, sans-serif; margin-bottom: 20px; }
+.cadastro-materia {border-top: 4px solid #fcbc00; background:  url(http://s0.ejesa.ig.com.br/img/be/blanknoise.png); padding: 0 40px 30px 40px; }
+.cadastro-materia label {font-weight: normal; font-size: 14px; display: block; margin-top: 5px;clear: both; }
+
+.cadastro-materia label#receber-informacao1 {margin-top: 15px;}
+
+.cadastro-materia label input {margin-top: 0px; position: relative; top: 2px; margin-right: 10px;}
+
+
+.main-materia {padding-top: 30px; position: relative;}
+.main-materia article {font-family: Arial, sans-serif; font-size: 16px; color: #333333;}
+.main-materia article > small#chapeu {margin: 10px 0 20px 0; display: block; color: #919191; font-size: 12px;}
+.main-materia article > h1 {font-size: 36px; color: #242424; text-align: left; font-weight: bold; margin: 0 0 25px 0;}
+.main-materia article > h2 {font-size: 22px; color: #828282; text-align: left; font-family: Arial, sans-serif; font-weight: normal; margin: 0 0 30px 0;}
+.main-materia article > h3 {font-size: 16px; color: #333; font-weight: bold; font-family: Arial, sans-serif; margin: 10px 0 5px 0;}
+.main-materia article > p {margin-bottom: 25px;}
+.main-materia article a {color: #fc9400 ; opacity: 0.8; transition: opacity ease-in-out 0.2s; text-decoration: none;}
+.main-materia article a:hover {opacity: 1;}
+.main-materia article ul {list-style: square; }
+.main-materia article ul li:before {color: #ccc; content: }
+.main-materia article code {color: #333; font-size: 95%; background: #E9E9E9;}
+.main-materia article blockquote {font-size: 14px; font-style: italic;}
+.main-materia article figure {background: #f0f0f0; border: 1px solid #e2e2e2; text-align: left; margin: 0 20px 20px 0 ; padding-right: 0px; padding-left: 0px;}
+.main-materia article figure img {float: none; clear: both; display: block; width: 100%;}
+.main-materia article figure small { display: inline-block; margin: 15px 20px; font-size: 12px;}
+.main-materia article small#publicador {display: block; font-size: 12px; margin: 20px 0;}
+.main-materia article small#publicador span#nome-completo {display: block; color: #fcbc00; font-weight: bold;}
+.main-materia article small#publicador span#email-publicador a {display: block; color: #242424;}
+@media (max-width: 960px) {
+	.main-materia article figure {margin: 0 0 20px 0;}
+}
+
+
+#conteudo .noticia-header .sharing-materia { display: block; background: url(http://s0.ejesa.ig.com.br/img/be/blanknoise.png); border-top: 1px solid #ccc; box-shadow: 0px 1px 0px #fff inset; margin-bottom: 15px;}
+#conteudo .noticia-header .sharing-materia span.sharing-interno {float: right; height: 17px;}
+#conteudo .noticia-header .sharing-materia .carregamento-social {height: 23px;display: inline-block; max-width: 335px;}
+#conteudo .noticia-header .sharing-materia .carregamento-social img {}
+#conteudo .noticia-header .sharing-materia span.sharing-interno a {width: 17px; height: 17px; text-indent: -9999px; display: inline-block;}
+#conteudo .noticia-header .sharing-materia span.sharing-interno a:first-child {background: url(http://s0.ejesa.ig.com.br/img/be/chat.png) no-repeat; width: 20px; margin-right: 5px;}
+#conteudo .noticia-header .sharing-materia span.sharing-interno a:last-child {background: url(http://s0.ejesa.ig.com.br/img/be/impressora.png) no-repeat;}
+
+.materias-recomendadas {border-top: 5px solid #898989; border-bottom: 1px solid #dbdbdb; padding-bottom: 15px; margin-bottom: 15px;}
+.materias-recomendadas h3{color: #454545; padding-bottom: 10px;  border-bottom: 1px solid #898989; margin-bottom: 20px;}
+.materias-recomendadas h4{  font-size: 14px;}
+.materias-recomendadas a {text-decoration: none; color: #454545; transition: color ease-in-out 0.2s; display: block;}
+.materias-recomendadas a:hover {color: #696969 ;}
+.materias-recomendadas img {display: block; width: 100%;}
+.materias-recomendadas a:hover img {display: block; width: 100%; outline: blue;}
+
+
+
+
+.BENEE00402.col-md-6 .col-md-12.materias-diretamente-relacionadas {border-top: 5px solid #898989; padding: 0px; margin: 0px 20px 20px 0;}
+.BENEE00402.col-md-6 .col-md-12.materias-diretamente-relacionadas ul {border-top: 1px solid #898989; border-bottom: 1px solid #898989; list-style: none; padding: 0px; margin: 0 ;}
+.BENEE00402.col-md-6 .col-md-12.materias-diretamente-relacionadas ul li {margin: 15px 0;}
+.BENEE00402.col-md-6 .col-md-12.materias-diretamente-relacionadas ul li:last-child {margin-bottom: 30px;}
+.BENEE00402.col-md-6 .col-md-12.materias-diretamente-relacionadas ul li a {font-family: Georgia, serif; font-size: 16px;  color: #e66c3d ; text-decoration: none; opacity: 0.8; transition: opacity ease-in-out 0.2s;}
+.BENEE00402.col-md-6 .col-md-12.materias-diretamente-relacionadas ul li a:hover {opacity: 1;}
+.BENEE00402.col-md-6 .col-md-12.materias-diretamente-relacionadas h4 {color:#454545; font-size: 18px; font-weight: normal; margin: 10px 0;}
+
+.BENEE00604 span #authors-box #nome-completo {display: block;color: #fcbc00;font-weight: bold;}
+.BENEE00604 span #authors-box #email-publicador{display: block;color: #242424;}
+
+#conteudo .noticia-header .sharing-materia {border-top: 0px none;}
+.tools-gplus {margin-left: 10px;}
+.tools-twiter {width: 100px;}
+.tools-face {position: relative; top: -2px;}
+
+@media (max-width: 650px) {
+	.noticia-header #noticia-titulo {font-size: 20px;}
+	.noticia-header #noticia-olho {font-size: 16px;}
+	.main-materia {padding-top: 0px;}
+	.BENEA00204 #chapeu {font-size: 10px;}
+	.BENEA00404 .news-hat .text {font-size: 20px;}
+	.tools-twiter, .tools-comments, .tools-print {display: none;}
+	.BENEA00304 {border-top: 0px none;}
+}
+@media (min-width: 1380px){
+	#conteudo .noticia-header .sharing-materia {display: none;}
+}
+#barra-superior {height: auto;}
+
