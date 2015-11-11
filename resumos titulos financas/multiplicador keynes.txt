@@ -1,0 +1,9 @@
+Y(RENDA = K(multiplicador) * (c + i + g - Cn*To + x - m)
+
+c = nao sei
+i= propensao a investir
+g=propensao a efetuar gastos
+x= propensao a exportar
+m=propensao a importar
+Cn=propensao a consmir
+To = propensao a tributar

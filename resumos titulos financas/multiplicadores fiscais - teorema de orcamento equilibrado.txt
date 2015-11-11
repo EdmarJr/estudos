@@ -1,0 +1,67 @@
+--------------------------MULTIPLICADORES FISCAIS--------------------------------
+
+Os multiplicadores fiscais são os efeitos propulsores sobre uma economia
+que são causados pelos gastos do governo.
+
+	Esses multiplicadores demonstram que, em uma economia com capacidade produtiva
+ociosa - com recursos desempregados -, o aumento dos gastos do governo
+provocará um aumento na renda nacional proporcionalmente maior que o valor
+do gasto realizado pelo o governo.
+	Isso acontece porque o aumento da renda do setor beneficiado fará com que ele 
+gaste esse excedente com outros setores e assim por diante. Dessa forma, o aumento
+da renda vai passando por vários setores. Esses setores, com o intuito de lucrar mais,
+aumentarão a produção dos seus produtos ,caso houver capacidade pra isso,
+ou o valor deles, gerando inflação. Quanto maior a propensão de consumidar da sociedade
+maiores serão os efeitos.
+
+A demanda agregada é formada por C + I + G + E - M(EXPORTACOES)
+Cada variavel dessa tem o seu multiplicador.
+
+No funcionamento do multiplicador keynesiano repousam três suposições:
+	a) economia em desemprego. Se a economia estiver em pleno emprego,
+	o aumento na demanda provocará apenas inflação, e não aumento
+	da renda e do emprego.
+	b) mercado monetário passivo, ou seja, a política fiscal
+	expansionista não afeta as taxas de juros, o que poderia 
+	provocar quedas do investimento privado que compensariam
+	o aumento da demanda.
+	c) manutenção do fluxo adicional de gastos.  Isso significa
+	que pra manter a renda, o governo tem que continuar mantendo 
+	os gastos, pois,se abaixar, ele divide também.
+	
+-------------------------O TEOREMA DO ORÇAMENTO EQUILIBRADO----------------------
+	Conhecido como teorema de haavelmo, este demonstra que caso o governo realize
+uma política fiscal conjunta de aumentos dos gastos em um percentual "X" qualquer 
+e, ao mesmo tempo, e no mesmo montante "X",realize uma política de aumento da 
+tributação, a renda da economia, ao invés de permanecer constante, o que seria
+normal, aumentará em um montante igual ao aumento de G e T.
+
+	O teorema pode ser demonstrado através do multiplicador keynesiano.
+
+	A demonstração diz  que o aumento dos gastos, em conjunto com o aumento
+da arrecadação tributária, mantendo-se as contas públicas em equilíbrio,
+leva ao aumento da renda da economia no montante do aumento dos gastos.
+
+No orçamento equilibrado, se o governo adota uma política fiscal com 
+o objetivo de manter o orçamento equilibrado, o impacto da política fiscal
+na renda bruta será de G, ao passo que o impacto na renda disponível
+será de zero. Sendo assim, a renda agregada aumentará
+exatamente no tamanho dos gastos
+do governo, mesmo com o orçamento equilibrado.
+
+A renda disponível é a renda que efetivamente a população tem
+para consumir e realizar os seus investimentos. 
+Quando há uma política fiscal do governo que aumente tanto os gastos 
+quanto os tributos no mesmo montante. Como a renda vai aumentar na mesma
+proporção que o gasto, a tributação vai afetar somente a renda bruta.
+Pois os tributos vão incidir ali. Já a renda disponível vai permanecer a mesma.
+
+	Assim, o efetivo resultado negativo das contas públicas não está
+no excesso de gastos sobre as receitas arrecadadas pelo o governo ano a ano.
+O problema principal está justamente na fatia arrecadada que de fato fica 
+nas mãos dos governos,especialmente federal e estadual.
+Em decorrência do alto grau de descentralização das receitas,
+isso acaba por fazer que as receitas sejam inferiores aos gastos
+inerentes à atividade interventiva na atividade econômica.
+
+
