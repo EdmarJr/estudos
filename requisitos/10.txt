@@ -1,0 +1,51 @@
+GERENCIAMENTO DE REQUISITOS (TA PREOCUPADA EM MANTER OS DOCUMENTOS)
+		Esta preocupada em manter a evolução dos requisitos e gerenciar
+	impacto de mudanças.
+	-É o processo de gerenciar as mudanças nos requisitos durante o processo
+	de engenharia de requisitos.
+	
+	*REQUISITOS SÃO, INEVITAVELMENTE INCOMPLETOS E INCONSISTENTES*
+		-Novos requisitos surgem à medida que as necessidades de negócios 
+		mudam e há um melhor entendimento do sistema. 
+		-Diferentes pontos de vista normalmente têm requisitos diferentes 
+		e conflitantes.
+		
+	Porque requisitos mudam?
+		-A prioridade de cada requisito muda ao longo do projeto.
+		-Cliente não é a mesma coisa Usuário.
+			*Perspectivas diferentes.
+		-O ambiente de negócios e tecnológico do projeto
+		muda durante o seu desenrolar.
+		-É necessário gerenciar tudo isso.
+	
+	
+	TÉCNICAS PARA GERENCIAR REQUISITOS.
+		-RASTREABILIDADE
+			-Relacionam os requisitos e avaliam seus impactos.
+			
+			GRANDE NÚCLEO AQUI É A MATRIZ DE RASTREABILIDADE, ELA PERMITE
+			QUE SEJA FEITA UMA ANÁLISE DE IMPACTO QUANDO O REQUISITO MUDA.
+			Pois aqui há formas de realizar a rastreabilidade.
+			
+			TIPOS DE RASTREABILIDADE:
+				-Rastreabilidade de 
+					*fonte:
+						Liga um requisito ao stakeholder que propôes esse requisito.
+					*requisitos:
+						Ligações entre requisitos que dependem entre si.
+					*projeto:
+						Ligação entre o requisito e o projeto(arquitetura, modulos, codigo) do software.
+				
+				
+				a ideia é ter uma bidirecionalidade, mas nem sempre acontece.
+
+	A RASTREABILIDADE DE REQUISITOS É ESSENCIAL PARA O GERENCIAMENTO DE REQUISITOS
+POSSA AVALIAR O IMPACTO DE UMA MUDANÇA.
+	
+				
+É IMPOSSÍVEL RATREAR REQUISITOS SEM UMA FERRAMENTA CASE ADEQUADA:
+	ELA DEVE:
+		-Armazenar os requisitos em um ambiente seguro e gerenciado.
+		-Dar suporte ao gerenciamento de mudança dos requisitos.
+		-Permitir recuperar automaticamente a ligação (rastreabilidade) dos 
+		requisitos.

@@ -1,0 +1,74 @@
+-Indicadores fiscais
+	Estes são medidas de evolução das finançãs do setor público
+	que permitem avaliar o desempenho fiscal de um país ao longo
+	do tempo. Incluem indicadores de fluxos (receitas e despesas) e 
+	de estoques (endividamento e créditos).
+	
+	-RESULTADO NOMINAL
+		-É diferença do fluxo agregado de receitas totais(inclusive aplicacoes financeiras)
+		e de despesass totais (inclusive despesas com juros), num determinado período.
+		Essa diferença corresponde a necessidade de financiamento do setor público.
+	-RESULTADO OPERACIONAL
+		-Corresponde ao resultado nominal excluída a parcela referente à 
+		atualização monetária da dívida líquida.
+	-RESULTADO PRIMÁRIO
+		-Corresponde ao resultado nominal excluída a parcela referente 
+		aos juros nominais(juros reais mais atualização monetária) incidentes
+		sobre a dívida líquida.
+		O resultado primário evidenca o esforço fiscal do setor público
+		livre da cartga dos déficits incorridos no passado.
+		
+RESULTADO NOMINAL é calculado pelo o resultado primário, adicionado ainda a este
+o resultado entre o balanceamento das despesas e receitas financeiras do governo.
+Nas despesas e receitas financeiras devem ser incluídas além dos juros reais,
+a atualizaçaõ monetária da dívida existente.
+
+
+*******O conceito de setor público considerado para efeitos de mensuração do resultado
+fiscal é o setor público não-financeiro mais o Banco Central do Brasil (BCB). O setor
+público não-financeiro, por sua vez, é composto pelo governo federal, governos
+estaduais, governos municipais, empresas estatais federais, estaduais e municipais e
+o INSS***********
+
+---------------------
+Os resultados fiscais podem ser apurados de duas formas:
+• “acima da linha”, que corresponde à diferença entre as receitas e as despesas do
+setor público; e
+• “abaixo da linha”, que corresponde à variação da dívida líquida total, interna ou
+externa. 
+
+A mensuração do déficit com base na execução orçamentária - receitas e despesas - 
+representa o conceito acima da linha.
+Já a mensuração de como o déficit foi financiado é pelo criterio das nfsp abaixo
+da linha pelo banco central do brasil.
+
+Em outras palavras, o método “acima da linha” apura o resultado fiscal pela diferença
+entre fluxos, o que permite melhor acompanhamento da execução orçamentária pelo
+controle das receitas e despesas. 
+
+---------------------
+	O BCB calcula a Dívida Fiscal Líquida a partir dos dados de DLSP, excluindo os
+efeitos de ajustes metodológicos e patrimoniais. Esses ajustes são efetuados para
+retirar dos fluxos correntes valores que não representam esforço fiscal despendido
+durante o período em análise e que não podem ser considerados no cálculo das
+necessidades de financiamento do setor público.
+
+	O ajuste metodológico representa a variação da dívida decorrente do impacto da
+variação da taxa de câmbio sobre a dívida externa líquida25 e sobre a parcela da
+dívida interna indexada ao câmbio26. O ajuste metodológico da dívida do setor externo
+decorre da conversão dos saldos pela taxa de câmbio de final do período e dos fluxos
+pela taxa de câmbio média do mês.
+
+	Já os ajustes patrimoniais27 englobam o reconhecimento de dívidas do setor público
+geradas no passado ("esqueletos") e que já produziram impacto macroeconômico.
+Como esses passivos representam déficits já ocorridos, seu reconhecimento não traz
+impacto no cálculo de necessidades de financiamento, mas passam a integrar o saldo
+da dívida líquida total, impactando o estoque e o serviço da dívida. De forma análoga
+também são excluídos do cômputo da dívida fiscal líquida os efeitos do processo de
+privatização de empresas (receitas de venda e transferências de dívidas para o setor
+privado)28.
+---------------------
+
+A apuração acima da linah é realizada pelo tesouro nacional (ministério da fazenda)
+
+	

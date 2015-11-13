@@ -1,0 +1,44 @@
+Tipos requisitos:
+	-Funcionais
+		Definem as funcionalidades do sistema. (como reagem a determinadas entradas,
+		serviços providos pelo o sitema)
+	-Não funcionais
+		*Expressam restrições sob as quais o sistema deve operar ou qualidades 
+		específicas que o software deve ter
+	-De domínio
+		*Vem do domínio da aplicação do sistema e 
+		refletem características do domínio.
+		São transformados posteriormente em requisitos funcionais
+		ou nao funcionais.
+		
+	Do ponto de vista da manutenção e evolução do sistema
+		Há uma classificaçaõ para saber quais são os requisitos
+	mais estáveis e quais são os mais voláteis.
+		-Requisitos permanentes.
+				Derivados da atividade principal da 
+			organização.
+		-Requisitos voláteis.
+				Requisitos que se modificam durante o desenvolvimento
+			ou quando o sistema está em uso.
+				Subclassificação:
+					-Requisitos mutáveis
+						Se modificam por causa do ambiente do sistema.
+						(Tal como imposto. Isso deriva direto do ambiente
+						no qual o sistema está inserido)
+					-Requisitos emergentes
+						Surgem à medida que a compreensão do cliente
+						sobre o sistema se desenvolve.
+					-Requisitos consequentes
+							Resultam da introdução do sistema no ambiente
+						do usuário.		
+					-Requisitos de compatibilidade
+							Dependem de outro equipamento ou processo.
+						Conforme eles mudam, o requisito também muda.
+						
+	Requisitos funcionais
+		-Descrevem funcionalidades ou serviços do sistema
+		-Dependem do tipo de software dos usuários e do 
+		contexto onde ele será utilizado.
+		-Podem ser escritos em alto nível,
+		se forem voltados ao cliente, ou podem ser 
+		especificados em detalhe, para desenvolvedores.

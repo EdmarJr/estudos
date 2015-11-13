@@ -1,0 +1,41 @@
+VALIDAÇÃO DE REQUISITOS (O GRANDE LANCE AQUI É OBTER UM ACEITE DO CLIENTE)
+
+	OBJETIVOS:
+		-DEMONSTRAR QUE OS REQUISITOS DEFINEM O SISTEMA QUE O USUÁRIO
+		REALMENTE DESEJA.
+		
+		VISA ASSEGURAR QUE:
+			-A versão do documento de requisitos descreve
+			funcionalidades e características do sistema satisfatoriamente.
+			-Os requisitos são consistes e de alta qualidade
+			-o documento de requisitos provê uma base adequada para o projeto
+			e implementação.
+		
+		MAS A PALAVRA FINAL AQUI É DO CLIENTE, É ELE QUEM DA O ACEITE.
+		
+		ENTRADAS:
+			-O documento de requisitos
+			-Padrões organizacionais
+			-Conhecimento implicíto da organização
+		SAÍDAS:
+			-Lista de problemas com os requisitos.
+			-Ações acordadas para tratar desses problemas.
+			-Documento de requisitos aprovado.
+			
+		PRINCIPAIS TECNICAS:
+			-REVISÕES
+				-Um grupo de pessoas se reúne, lê e analisa os requisitos,
+				para identificar problemas e suas possíveis soluções.
+			-PROTOTIPAGEM
+				-Um prototipo executável demonstra os
+				requisitos e ajudam os stakeholders
+				a descobrir problemas.
+			-GERAÇÃO DE CASOS DE TESTES
+				-Casos de teste ajudam a mostrar se os requisitos
+				estão ambíguos ou incompletos.
+				
+PROCESSO DE ENGENHARIA DE REQUISITOS NA PRATICA É ITERATIVO.
+
+prototipação pode ser usado para resolver ambiguidades.
+PROCESSO DE ENGENHARIA DE REQUISITOS NA PRATICA É ITERATIVO.
+		

@@ -1,0 +1,68 @@
+Engenharia de requisitos está preocupada com:
+	-Objetivos do mundo real para sistemas de software
+	-Funções de sistemas de software
+	-Restrições em sistemas de software
+	-E o relacionamento entre esses fatores
+	
+	O que a gente quer obter na engenharia de requisitos
+	é uma especificação precisa do comportamento do software
+	e sua evolução.
+	
+	Documento de requisitos atua como uma parte de contrato entre
+	as partes interessadas. Ele descreve o que o sistema deve fazer
+	
+	Objetivos:
+		-Estabelecer e manter concordância com os clientes
+		e outros envolvidos sobre o que o sistema deve fazer
+		-Oferecer aos desenvolvedores do sistema uma compreensão 
+		melhor dos requisitos do sistema
+		-Definir as fronteiras do sistema
+		-Fornecer uma base para planejar o conteúdo técnico das iterações. 
+		-Fornecer uma base para estiamr o custo e o tempo de desenvolvimento
+		do sistema.
+		-Definir uma interface de usuário para o sistema, focando nas necessidades
+		e metas dos usuários.
+		
+	Características de uma especificação de requisitos:
+		-Completa (tudo ta aqui)
+		-Consistente (o documento deve fazer sentido, sem ambiguidades etc)
+		-Não ambígua
+		-Correta (o documento deve capturar as reais necessidades do 
+				documento)
+				
+	O DOCUMENTO DE REQUISITOS PODE SER UM ACORDO ENTRE AS PARTES ENVOLVIDAS
+	ENGLOBANDO AQUILO QUE FOI NEGOCIADO ETC.
+	
+	O processo de engenharia de requisitos:
+		-Estudo de viabilidade
+		-Elicitação e Análise de Requisitos
+			*Foca em definir e levantar requisitos
+				*etapas mais importantes.
+		-Especicação requisitos
+			Converter os requisitos que foram levantados na caixinha anterior
+			em uma especificação padronizada.
+		-Validação de requisitos	
+				Essa fase tem o intuito de averiguar se os requisitos cumprem
+			as reais necessidades do cliente.
+				*Daqui sai de fato o documento de requisitos. Aqui tem a versão
+				aprovada do documento.
+		-Gerenciamento de Requisitos
+			Ela foca em gerar os requisitos após eles
+			terem sido especificados. Foco na evolução do documento.
+		
+		ENGENHARIA DE REQUISITOS:
+			É UM PROCESSO DINÂMICO, AS ATIVIDADES PODEM SE SOBREPOR.
+		
+		
+		********
+		REQUISITOS DESCREVEM UM ACORDO OU CONTRATO ENTRE DUAS PARTES,
+		ESPECIFICANDO, ENTRE OUTROS ASPECTOS, O QUE O SISTEMA DE SOFTWARE DEVE
+		FAZER PARA SER APROVADO EM UM TESTE DE ACEITAÇÃO.*************
+		
+		RESPOSTAS:
+			A engenharia de sistemas é algo maior e portanto
+		os seus requisitos devem vir primeiro do que os requisitos do software.
+		
+		A area de atividade de requisitos de software apresenta maior interface 
+com a engenharia de sistemas quando comparada à área de análise e projeto de software.		
+		

@@ -1,0 +1,45 @@
+Encapsulamento
+	Mecanismo da OO para esconder os detalhes internos
+de implementação dos objetos do mundo externo.
+	Com a redução da exposiçaõ dos detalhes internos temos
+uma redução de dependência com as outras classes.
+	-Redução dos impactos propagados a partir de 
+	mudanças.
+	-Diminuição do acoplamento (dependência) entre
+	classes e objetos.
+	-Simplificação das interfaces entre os objetos.
+
+	
+HERANÇA
+	É o mecanismo da OO que permite criar novas
+	classes a partir de classes já existentes,
+	reutilizando seus atributos e comportamentos.
+	Benefícios:
+		-Reuso
+		-Extensibilidade
+		
+MENSAGENS:
+	Objetos se comunicam através de mensagens. 
+	Uma mensagem é uma operação que 
+	um objeto realiza em outro.
+	
+POLIMORFISMO:
+	-Várias formas.
+	-Denota uma situação na qual um objeto
+	pdo ser comportar de maneiras diferentes
+	ao receber uma mensagem.
+		Tipos:
+			POLIMORFISMO estático (sobrecarga)
+				-Ocorre na mesma clase quando um método
+				é implementado com o mesmo nome só que com 
+				parametros de tipo ou quantidades diferentes
+			Polimorfismo dinâmico (sobreposição) (envolve várias classes)
+				Acontece na herança, quando a subclasse sobrepõe
+			o método original.
+				O método é escolhido em tempo de execução e não
+				em tempo de compilação.
+				
+				
+*********TIPO DE RETORNO NÃO FAZ PARTE DA ASSINATURA DE UM MÉTODO
+EM JAVA*******************
+	

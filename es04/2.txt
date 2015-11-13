@@ -1,0 +1,63 @@
+Paradigma OO
+	-O enfoque tradicional era a compreensão do sistema
+	como um conjunto de programas que executam
+	processos sobre dados.
+
+O enfoque OO: o sistema é uma coletânea de objetos
+que interagem entre si, com características 
+próprias representadas por dados (atributos) e operações
+(métodos).
+
+Qualquer conceito ou entidade do mundo real pode ser
+mapeado para o mundo real. Objeto nada mais é do que
+uma entidade que possui dados e operações.
+
+	No paradigma oo, a ideia é olhar o mundo real
+como se tudo pudesse ser representado por objetos.
+	Paradigma OO:
+		-Vantagens: No OO dados e operações ficam semanticamente relacionados
+		nas suas respectivas classes, que representam conceitos claros do
+		seu domínio.
+			-Facilidade de manutenção
+				Isso acontece pelo o fato de ter 
+				dados e operações no mesmo lugar,
+				o que traz uma maior coesão.
+			-Extensibilidade
+					Pois há mecanismos específicos para isso,
+				como a herança e abstração.
+			-Maior reúso
+				pelo fato da Herança, que permite criar
+				novas classes a partir de classes que já existiam.
+
+COMPONENTES QUE COMPOE UM OBJETO:
+	-Identidade
+		*Propriedade do objeto que o distingue de 
+		todos os outros objetos
+	-Estado
+		Reflete os valores correntes dos atributos do objeto em
+		determinado momento.
+	-Comportamento
+		*Como o objeto reage em termos
+		de mudança de estado e troca de mensagens.
+		*Conjunto de atividades externamente observáveis 
+		do objeto.
+		
+CLASSES:
+	-Classes podem ser pensadas como templates ou moldes para 
+	objetos.
+	-Consistem de um conjunto de objetos
+	do mesmo tipo, com as mesmas características(operações
+	e propriedades).
+	-Objetos são instâncias de classes.
+	
+	Componentes de uma classe:
+		-atributos
+			*Características pertencentes a todos
+			os objetos da classe.
+			*Armazenam a informação sobre 
+			o estado dos objetos.
+		-metodos
+			*Funções ou serviços oferecidos pela
+			classe
+			*Métodos são usados para implementar o 
+			comportamento dos objetos.

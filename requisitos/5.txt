@@ -1,0 +1,98 @@
+Elicitação de requisitos
+	-Descobrir,tornar explicíto, obter
+	o máximo de informações para o conhecimento
+	do objeto em questão.
+	
+	A equipe técnica deve esclarecer:
+		-O dominio da aplicação. (ENTENDER A AREA DE INTERESSE, COMO ELA FUNCIONA)
+		-Os serviços que a aplicação deve
+		oferecer.
+		-As restriçoes sob as quais a aplicação
+		deve operar.
+		
+	Envolve vários stakeholders
+	
+	Problemas com a elicitação:
+		-Os interessados não sabem o que querem.
+		-Os interessados descrevem os problemas em sua própria
+		linguagem.
+		-Os requisitos de cada parte interessada
+		podem ser conflitantes.
+		-Fatores políticos e organizacionais podem influenciar
+		os requisitos do sistema.
+		
+		
+	Atividades
+		-Entendimento do domínio da aplicação
+			-Entender os problemas atuais na organização e como o
+			software que eu estou implementando se ajustará 
+			a ela.
+			
+		-Descoberta(levantamento) dos requisitos
+			-Baiscamente é interagir com os stakeholders para descobrir
+			os requisitos.
+			
+	Técnicas de elicitação de requisitos:
+		-Entrevistas (preferivel entrevistas do que questionarios)
+		-Questionários
+		-Leituras de documentos (sistemas legados)
+		-Observações e análises sociais (etnografia)
+		-Workshops de requisitos
+		-Cenários (Caso de uso)
+		-Prototipagem
+		
+		-ETNOGRAFIA (técnica boa para pegar os conhecimentos tácitos (implicitos))
+			-Técnica de observação utilizada para compreeender os requisitos
+			sociais e organizacionais.
+			-Um cientista social se insere no ambiente de trabalho
+			onde o sistema será implantado e analisa como as pessoas
+			trabalham.
+			-As pessoas não precisam explicar o seu trabalho.
+			-Fatores sociais e organizacionais importantes podem 
+			ser observados.
+		
+			-A ETNOGAFIA É UMA TÉCNICA UTILIZADA PARA A DESCOBERTAS
+			DE REQUISITOS DE SISTEMAS DE SOFTWARE NA QUAL, POR MEIO DE 
+			OBSERVAÇÕES, PROCURA-SE COMPREENDER OS Requisitos
+			SOCIAIS E ORGANIZACIONAIS DO AMBIENTE ONDE O SISTEMA 
+			SERÁ USADO.
+		
+			ESCOPO DA ETNOGRAFIA
+				-Requisitos que são derivados da forma como as pessoas trabalham,
+				e não de como os desenvolvedores pensam que os processos funcionam.
+				-Requisitos que são derivados da cooperação e compreensão das atividades
+				das outras pessoas.
+			
+		-WORKSHOP DE REQUISITOS
+			Consiste em uma reunião para levantar requisitos.
+			-A diferença é que as partes interessadas ficam juntas 
+			durante um periodo intensivo. FOCADOS. (O TEMPO JUNTO É ALTO
+			E NAO CURTO)
+			
+			EXISTEM PAPÉIS ESPECIFICOS:
+				-FACILITADOR DO WORKSHOP (NORMALMENTE NAO INTERFERE NAO REUNIAO.)
+					-Responsável pelas atividades logística e de organização,
+					que inclui:
+						-Dar a todos a oportunidade de falar
+						-Manter a sessão sobre controle
+						-Reunir informações para atributos de requisitos
+						aplicáveis
+						-Registrar as descoberas
+						-Resumir a sessão e elaborar as conclusões.
+					
+				
+				A DIFERENÇA DO WORKSHOP,PORTANTO, É A REUNIAO FOCADA POR VARIAS 
+			HORAS OU VARIOS DIAS, COM AS PARTES INTERESSADAS JUNTAS DURANTE UM PERÍODO
+			INTENSIVO. E, ALÉM DISSO,O PAPEL DO FACILITADOR.
+		
+				DENTRO DO WORKSHOP DE REQUISITOS PODEM SER UTILIZADAS OUTRAS TÉCNICAS
+			TAL COMO BRAINSTORMING,ETC.
+			
+				AO FINAL DO WORKSHOP, O FACILITADOR RESUME AS DESCOBERTAS EM UM
+			FORMATO APRESENTÁVEL.
+			
+			
+	
+		
+		
+	

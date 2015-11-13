@@ -1,0 +1,156 @@
+O federalismo fiscal tem íntima relação com a estrutura de poder político de um país.
+A descentralização política será tanto maior quanto maiores foram as competências
+e recursos dos entes subnacionais.
+A descentralização política permite com que a união fique responsável pela 
+provisão dos chamados bens públicos puros, a exemplo da segurança nacional.
+Aos estados e ao DF os bens públicos regionais, a exemplo da segurança pública,
+e aos municípios, os bens públicos locais, a exemplo de parques,praças e jardins.
+
+Considerações: Cidadãos têm em suas mãos importantes instrumentos
+de definição de políticas públicas. A primeira relacionada à opção
+feita através do voto em novos governantes, com fins de promover a 
+melhoria na condução das decisões quanto à alocação de receitas e 
+despesas públicas e seus atendimentos às necessidades da população.
+Feitas esta decisão, mas não atendidos em suas necessidades, os cidadãos
+podem migrar para outras localidades, buscando melhorias no atendimento às
+suas necessidades.
+
+O modelo de Tiebout
+
+	HÍPOTESES:
+		* Os agentes econômicos que votam possuem liberdade de locação,
+		buscando sempre o atendimento de suas preferências;
+		* Há um grande número de municípios em que os agentes econômicos
+		podem residir;
+		*Os agentes econômicos possuem informações perfeitas com relação
+		aos padrões de despesas e receitas dos municípios, reagindo a 
+		essas diferenças;
+		*Não são considerados, de forma direta, aspectos relativos
+		às oportunidades de emprego nos diferentes entes subnacionais.
+	
+		Os agentes econômicos buscarão fixar residência em municípios 
+	nos quais os tributos locais mais se adéquam as suas preferências
+	e rendimentos.
+		O modelo de tiebout diz que os agentes revelarão suas preferências 
+	por bens públicos por meio da competição entre municipios, com
+	fins de buscar alocação eficiente de recursos.
+		Dessa forma a descentralização parece se igualar ao mercado
+	de bens privados para regular oferta e demanda de bens públicos.
+		Dessa forma uma maior concorrencia seria estabelecida entre 
+	os municipios, estabelecendo uma política de concorrencia
+	entre eles.
+		Dessa forma, destaca alguns autores que o grande mérito
+	da descentralização é o estimulo a concorrência entre os 
+	governos locais. Essa concorrência iria acabar estimulando
+	inovações tecnológicas e a adoção de inovações bem-sucedidas por 
+	todos os governos locais. Isso acontece, pois em um governo 
+	centralizado não há tal estimulo à inovação.
+	
+
+	No federalismo fiscal há uma busca pela correspondência das responsabilidades
+e recursos com os entes da federação. Portanto busca uma melhor correspondência
+entre as divisões administrativas dos entes governamentais e o padrão espacial
+dos benefícios dos bens públicos.
+	No contexto da eficiência do sistema federativo, ao ser considerada
+a divisão administrativa, por exemplo, num mesmo nível de governo
+regional, a equivalência fiscal deve buscar direcionar os benefícios
+dos bens públicos somente aos residentes daquele estado. E no mesmo sentido,
+a cobrança também deve ser somente na população daquele estado.
+
+	COm base no que foi apresentado fica claro que as atribuições
+relativas às funções estabilizadora e distributiva fica a cargo da união.
+E tendo como base a descentralização política, cabe aos governos
+regionais e locais o atendimento a função alocativa.
+
+
+=FEDERALISMO FISCAL E TRANSFERENCIAS INTERGOVERNAMENTAIS.
+MECANISMOS CONSTITUCIONAIS DE REPARTIÇÃO DAS RECEITAS PÚBLICAS.
+RECEITA CORRENTE LÍQUIDA.
+
+	A constituição de 88, como todos cá estamos cansados de saber.
+	Introduziu grandes mudanças nas relações entre os entes
+	estatais, aumento o processo de descentralização fiscal
+	por meio tanto das receitas quanto das despesas.
+	Esse processo de descentralização de receitas e despesas
+	dá se o nome de federalismo fiscal. Este é caracterizado 
+	pela separação de atribuiçoes entre os entes estatais
+	referentes à arrecadação  e a oferta de bens e serviços.
+		
+	A nova constituição visava distribuir o poder que antes era
+	centralizado do governo federal, pois a autonomia dada 
+	aos estados também ajuda a impedir um estado autoritário.
+	
+	São dos estados: ( const)
+		-O produto da arrecadação do impsoto da união, sobre renda e proventos de qualquer
+		natureza, incidente na fonte,
+		sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas
+		fundações que instituírem e mantivem.
+		-21,5% da arrecadação do IR e do IPI que forma o fundo de participação 
+		dos estados. ( a stn transfere ao banco do brasil e este repassa
+		para as contas correntes dos estados e do df seus respectivos valores,
+		segundo coeficientes individuais de participação no FPE, definidos no anexo
+		de lei complementar)
+		-30% da arrecadação do IOF referentes às operações com ouro;
+		-20% da arrecadaão de novos impostos criados apos a CF
+		-10% da arrecadacão do IPI são destinados aos estados 
+		exportadores em proporção às exportações de produtos industrializados; TEM
+		OBJETIVO DE RESSARCIR AS PERDAS DE EXPORTACOES RELATIVAS AO ICMS
+		(NENHUM ESTADO PODERA RECEBER PERCENTUAL SUPERIOR A 20%)
+		-29% DA ARRECADACAO DA UNIAO A TITULO DE CIDE COMBUSTIVEIS
+	
+	******
+	ESSAS TRANSFERENCIAS CORRESPONDEM A UM ALTO GRAU DA RECEITA CORRENTE LÍQUIDA
+	DOS ESTADOS***********
+	
+	São dos municípios: ( const)
+		-O produto da arrecadação do impsoto da união, sobre renda e proventos
+		de qualquer
+		natureza, incidente na fonte,
+		sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas
+		fundações que instituírem e mantivem.
+		
+		-22,5 da arrecadaão do ir e do ipi (forma o fpm)
+		-70% do iof referentes a operações com ouro
+		-50% do itr quando não realizarem a fiscalização e 100% quando 
+		fizerem a fiscalização e cobrança.
+		-adicional de 1% ao FPM referente a arrecadacao do IR e do IPI(primeiro
+		decendido do mes de dezembro de cada ano)
+		-adicional de 1% ao fpm (pago no decendio do mes de julho)
+		
+	Dos estados para os municípios:
+		25% da arrecadação do icms
+		50% do ipva
+		25% da transferencia que o estado recebe do ipi
+		exportação
+		25% do que receberam em relacao a titulo da cide combustiveis
+		
+	a UNIÃO REPASSARA AINDA:
+		3% do total da arrecadaão do IR e do IPI
+	destinados ao desenvolvimento economico social aos setores produtivos
+	das regioes norte nordeste e centrooeste.
+	Da parte do nordeste é 50% para o semi-árido.
+	
+	
+	--------------MEDIDAS TOMADAS PELA UNIAO PARA AGUENTAR AS PRESSÕES------
+		-REDUÇÃO DAS TRANFERÊNCIAS VOLUNTÁRIAS PELA UNIÃO E A CRIAÇÃO
+	DE CONTRIBUIÇÕES SOCIAIS, NOS MOLDES DA CIDE E DA CPMF.
+	
+		Após a alta vinculação imposta na constituição, com a estabilização
+	da inflação o governo teve de criar a FEF,DRU, para efetuar a desvinculação.
+	
+		Vale frisar as guerras fiscais do ICMS, que tributam na origem e 
+	não no destino.
+	 Segundo giambagi e alem, para melhorar essas situações, é necessária
+	a redução da autonomia dos níveis subnacionais do governo quanto à capacidade
+	de legislar sobre matéria tributária, em especial sendo esta competências
+	transferida ao governo central.
+	
+		O federalismo fiscal após a constituição 88 atribuiu diferentes responsabilidades
+	aos três entes da federação. O problema associado a estas atribuições foi
+	a desproporção imposta principalmente aos estados frente a sua parte no 
+	bolo da arrecadação. A transferencia das atribuicoes de saude e educação
+	sem o repasse de pessoal e de bens do ativo fixo destinados a este fim obrigou
+	os entes subnacionais a expandirem consideravelmente os seus gastos.
+		
+
+		

@@ -1,0 +1,51 @@
+- Análise OO
+		Após a etapa de requisitos, temos os documentos de requisitos e 
+	os casos de uso em mãos.
+		Queremos agora gerar um primeiro modelo do sistema 
+	a partir dos casos de uso.
+		Este modelo é chamado de modelo de análise (ou domínio)
+		No Rup, toda a atividade de análise é guiada por Casos de Uso.
+		
+			O grande foco da análise é entender o problema que a gente vai
+		tratar.  É entender as abstrações do domínio, que entidades,
+		como elas se associam. Gerar um modelo mais pro lado do mundo
+		real.
+			A análise foca em visualizar o problema e gerar um primeiro
+		modelo de alto nível, um modelo abstrato para representar, ter
+		uma primeira representação do sistema. Já projeto ta mais 
+		próximo do código.
+		
+			Os mesmo diagramas uml desenhados na parte de análise podem
+		ser desenhados na parte de projeto. É o exemplo de análise gerar
+		classes conceituais, mais proximas do mundo real. E no projeto 
+		também, só que mais detalhados.
+		
+			Na análise há uma preocupação maior em entender a essência
+		do seu problema e não os detalhes desse problema. Já um diagrama
+		gerado na parte de projeto seria bem mais detalhado, pq ali já
+		é a solução.
+		
+	OBJETIVOS ESPECÍFICOS:
+		-Entender o problema a ser tratado antes de partir para 
+	a solução.
+		-Encontrar os elementos que vão compor o software, suas 
+	funções, dados e relacionamentos. NO CASO DA ANALISE OO É IDENTIFICAR
+	OS OBJETOS.
+		-Nesta etapa, a tecnologia de implementação e RNFs são ignorados.
+		-É como se estivessemos no mundo ideal.
+		AQUI SE BUSCA SOMENTE GERAR UM PRIMEIRO MODELO ABSTRATO DO SISTEMA
+		AFIM DE ENTENDER A ESSENCIA DO PROBLEMA.
+		
+		O MODELO DE ANALISE INDEPENDE DE TECNOLOGIA.
+		
+		
+		
+		diferença casos de uso x analise oo
+		
+		casos de uso é visão externa   já     análise é visão interna
+												do sistema.
+		casos de uso capturam as       já     análise mostra como as 
+		funcionalidades do sistema            funcionalidades podem
+		                                      ser realizadas.
+		
+		

@@ -1,0 +1,61 @@
+Requisitos não funcionais
+	-Definem propriedades do sistema
+	e restrições:
+		-Usabilidade
+		-Confiabilidade
+		-Desempenho
+		-manutenibilidade
+		-Escalibilidade
+		-Portabilidade
+		
+		RNF não se restringem aos de produto;
+			Requisitos não funcionais podem ser e 
+		normalmente são, mais críticos do que 
+		os requisitos funcionais.
+		
+		Requisitos do produto
+			- São os de cima
+		Requisitos organizacionais
+			-Requisitos que são consequência das políticas
+			e procedimentos organizacionais, como padrões, processos
+			e etc. (Metodologias tal como xp)
+		Requisitos externos
+			-Requisitos que são externos ao sistema
+			e seu desenvolvimento, ex: legislação,interoperabilidade
+			,etc.	(legislação, regulamentos, leis)
+		
+	Problemas com RNFS
+		-Requisitos não funcionais pode ser extremamente difíceis de 
+		especificar precisamente.
+		-Requisitos naõ funcionais devem ser verificáveis.
+			*Usando alguma medida que possa ser objetivamente testada
+		
+		RNFs são conflitantes entre si!
+		
+		RNFs devem ser sempre mensuráveis.
+		
+REQUISITOS DE DOMÍNIO
+	-São derivados do domínio da aplicação
+	e descrevem as características e funcionalidades
+	do sistema que refletem o domínio em questão.
+	
+		Requisitos de domínio são extremamente específicos para 
+	aquele setor em que o software irá funcionar.
+		
+		De dentro dos reqs de domínio podem
+	ser derivados os ReqsFuncionais e NFuncionais.
+	
+		Problemas com requisitos de dominio pode ser expressados 
+	na linguagem do dominio da aplicação
+			a-Alta chance do engenheiro de software não entender.
+		Conhecimento tácito
+			Os especialistas de domínio entendem tão bem da sua área
+			que,muitas vezes não pensam em tornas 
+			os requisitos de domínio explicitos.
+			
+	
+		Os requisitos naõ funcionais estão sim relacionados as funcionalidades,
+	pois, de acordo com Sommerville, os requisitos não funcionais são restrições 
+	
+	
+	

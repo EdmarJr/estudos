@@ -1,0 +1,62 @@
+TODAS AS TECNICAS PRA TRAZ ERAM DE LEVANTAMENTO DE REQUISITOS - DE ELICITAÇÃO.
+
+SÓ QUE A CAIXINHA DO SOMMERVILLE É ELICITAÇÃO E ANÁLISE DE REQUISITOS.
+
+	DEPOIS QUE HOUVE A COLETA DE REQUISITOS ENTÃO, TEMOS A ANÁLISE
+		-DEPOIS QUE OS REQUISITOS FORAM COLETADOS ENTÃO, OS PRODUTOS
+		DE TRABALHO SERVEM COMO BASE PARA A ANÁLISE.
+		
+		-A Análise de requisitos visa a descobrir alguns problemas e 
+		torna-los mais consistentes antes da especificação formal.
+		
+		Como a proxima etapa é a especificação, aqui deve ser feito uma análise
+		para detectar completude,ambiguidade,etc. E também negociação.
+		
+		-etapas:
+			-Classificação e organização
+				agrupar requisitos relacionais e os organizá-los em conjuntos coerentes.
+				-checages de 
+					consistencia, ambiguidade, omissoes e relacionamentos entre requisitos. Mas 
+					são só internamente. Não tem o foco de validação.
+			
+			-Priorização e Negociação
+				Priorizar requisitos e negociar conflitos.
+				*Negociação
+					É importante para que o analista possa conciliar
+					os confitos entre os stakeholders.
+						-ELes pedem mais do que pode ser feito
+						ou tem necessidades especiais.
+					É papel do analista balancear todas essas demandas
+					
+					Requer grande capacidade de interação social.
+				
+A ANÁLISE DE REQUISITOS ENTÃO É UMA PRIMEIRA CHEGAGEM DE CONSISTENCIA
+DOS SEUS REQUISITOS E AI TEM ALGUMA MANEIRA DE CLASSIFICAR OS REQUISITOS
+POR ALGUM CRITERIO. Outra atividade importante é a de negociação. e depois 
+priorização né.
+
+AQUI NESSA FASE OCORRE UMA AVALIÇÃO SE OS REQUISITOS ASSOCIADOS AO DESEMPENHO,
+AO COMPORTAMENTO E ÀS CARACTERÍSTICAS OPERACIONAIS DO SISTEMA FORAM
+EXPLICITAMENTE DECLARADAS.
+
+LÁ NA CAIXINHA DE ELICITAÇÃO E ANALISE JÁ TEMOS UMA PRIMEIRA VERSÃO DO DOCUMENTO.
+SÓ QUE É UMA VERSÃO PRELIMINAR.
+
+
+-ESPECIFICAÇÃO DE REQUISITOS
+	Depois de levantar temos que registrar esses requisitos.
+	O termo especificação tem vários significados, podendo ser:
+		-Um documento escrito
+		-Um modelo gráfico
+		-Um modelo matemático formal
+		-Uma coleção de cenários de uso, etc.
+		A abordagem aqui depende da necessidade específica de cada 
+		projeto.
+			******Documentos escritos combinados com modelos de gráficos maiores no caso de 
+			sistemas maiores*****
+			
+	Aqui vai ser gerado uma versão final do DOCUMENTO DE REQUISITOS.
+	É o produto final produzido pelo engenheiro de requisitos.
+	
+		O DOCUMENTO DE REQUISITOS DE SOFTWARE ESTABELECE FORMALMENTE 
+	O QUE OS DESENVOLVEDORES DE SISTEMA DEVEM IMPLEMENTAR.

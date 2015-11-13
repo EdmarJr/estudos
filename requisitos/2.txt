@@ -1,0 +1,55 @@
+o QUE É UM REQUISITO?
+		Um requisito é uma condição ou uma capacidade com o 
+	qual o sistema deve estar de acordo.
+			**Um requisito pode ser desde uma especificação abstrata
+			até uma mais detalhada***
+			
+			Sommerville separa o nível de detalhes em três:
+				-Requisitos de usuário
+					Foram feitos para serem lidos por clientes.
+				-Requisitos de sistema
+					Aqui são requisitos estruturados, documentados
+					formalmente - aqui a equipe de desenv.
+				-Especificação do software
+					Nível máximo de detalhes: classe, componentes etc, 
+					modulo.
+			Um requisito define o sistema de fazer e sob quais limitações
+		ele é requisitado a operar.
+		
+		Partes interessadas:
+			-Engenheiros de software responsáveis pelo desenv do sistema.
+			-Usuários finais que irão usar o sistema depois de entregue.
+			-Especialista de domínio que possuem informações sobre os 
+			processos atuais.
+			-Fiscais externos, que verificam se o sistema satisfaz os requisitos
+			legais.
+		
+		Problemas com requisitos:
+			-Virem de várias fontes.
+			-Não refletirem as reais necessidades dos usuários do sistema.
+			-Serem incosistentes e/ou incompletos.
+			-Podem ter um alto custo para mudanças, depois de acordados.
+			-Mal entendidos entre clientes e desenvolvedores.
+			
+		IMPORTANCIA DA ENG REQUISITO
+				Quanto mais tarde problemas com requisitos são detectados,
+			maior é o custo para corrigi-los.
+			
+				O sucesso das etapas posteriores depende da qualidade
+			dos requisitos gerados.
+			
+		Atividades chafe do desenvolvimento de requisitos:
+			-Analisar o problema, comrpeender as necessidades
+			dos envolvidos, definir e refinar o escopo do sistema
+			e gerenciar as mudanças de requisitos.
+			
+			No desenvolvimento de requisitos para um sistema é interessante
+		a participação dos efetivos usuáriso do sistema e não só do cliente
+		do sistema, visto que os usuários,por serem também afetados e 
+		também possuirem uma visão prática, devem estar nessa parte.
+			
+			JAD não é uma técnica de especificação e modelagem mas sim
+		de elicitação de requisitos.
+		
+			Ainda é uma dificuldade manter e implantar uma atividade consistente
+		e estrutura de requisitos.

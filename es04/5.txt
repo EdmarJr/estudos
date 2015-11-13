@@ -1,0 +1,26 @@
+PROJETO OO 
+	-Após a etapa de análise, temos o primeiro
+	modelo do sistema
+		-Definimos o que o software deve fazer.
+	Mas agora queremos detalhar este modelo, para gerarmos
+	facilmente a implementação do sistema
+		-Definimos "COMO" o software atenderá 
+		os requisitos analisados. Do ponto de 
+		vista técnico.
+	Aqui nós geramos o modelo de projeto (ou design)
+	
+	Análise x PROJETO
+	Abstrato x Concreto
+	Independente x Dependente da tecnologia de implementação
+	Simples x Detalhado
+	Modelos por caso de uso x Unificação em único modelo
+	
+	PRINCIPAIS ATIVIDADES:
+		-Refinar o modelo de classes
+			-Identificar relacionamentos de herança,
+			classes abstratas e interfaces
+			-Elaborar um diagrama de classes unificado.
+		-Projetar arquitetura
+			-Divisão em camadas
+		-Projetar detalhadamente a estrutura e 
+		comportamento interno de cada subsistema (módulos)

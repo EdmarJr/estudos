@@ -1,0 +1,95 @@
+O que é o modelo de análise ou de domínio? (modelo de análise demostram como 
+é realizado de casos de uso)
+		É um modelo de objetos que descreve a realização
+	dos casos de uso e que funciona como uma abstração
+	do modelo design.
+		Contém as classes de análise (modelo de classes) e
+	qualquer artefato associado.
+		O modelo de classes evolui durante as iterações do
+	projeto, incrementado novos detalhes às classes.
+	
+	Modelo de classes:
+		Há tres níveis sucessivos de detalhamento:
+		-Análise
+			Modelo de classes de análise (Domínio) Contém classes 
+			conceituais (nivel alto de abstração).
+		-Especificação
+			Modelo de classes de especificação.
+		-Implementação
+			Modelo de classes de implementação.
+			
+			
+Aqui na análise temos o 
+	-Modelo de Classes de Análise - ta mais proximo do problema, mais 
+													proximo do mundo real
+		-Representa as classes no domínio
+		do negócio em questão.
+		-Não leva em consideração restrições 
+		inerentes à tecnologia específica a ser utilizada
+		na solução de um problema.
+		
+Fora da análise e dentro do projeto:
+	-Modelo de classes de especificação (projeto) 
+		-Obtido através da adição de detalhes ao 
+		modelo anterior, conforme a solução
+		de software escolhida.
+		-Uma classe de análise pode se transformar em várias
+		classes de projeto.
+
+Fora do projeto e dentro da implementação:
+	-Implementação das classes em alguma linguagem
+	de programação.
+
+
+ATIVIDADES DA ANALISE OO:
+	PASSO 1: IDENTIFICAR OS CONCEITOS DO MUNDO REAL E 
+	TRANSFORMA-LOS EM CLASSES.
+		-Desenhar diagramas de classes conceituais.
+		-Identificar persistência
+	PASSO 2: IDENTIFICAR RESPONSABILIDADES
+		-Descobrir quais operações serão fornecidades 
+		pelas classes.
+	PASSO 3: IDENTIFICAR ATRIBUTOS
+		-Nesta etapa, ainda não é necessario identificar
+		o tipo dos atributos. (conceitual)
+	PASSO 4: IDENTIFICAR RELACIONAMENTOS
+		-associações dependencias.
+	
+	
+	PASSO1 - AMPLIADO
+		-Para cada caso de uso, identificados três tipos
+		de classes:
+			-Fronteira
+				Classes responsáveis por apresentar dados aos
+				usuários.
+				*Representam a comunição do sistema com os atores
+				desse sistema.( representam dados , recebem solicitacoes)
+				*Utilizadas para modelar a interação entre um ator e 
+				seu sistema
+				*Para cada ator, é identifica pelo menos uma classe
+				de fronteira para permitir sua interação com o sistema.
+				*Dependem do ambiente (visão), pois elas podem variar
+				muito.
+			-Controle
+				Classes responsávis pelo fluxo da aplicação, pelo 
+				controle dos dados.
+				*objetos responsáveis por controlar
+				a lógica de execução correspondente
+				a cada caso de uso.(dispacham as solicitacoes
+				pro lugar correto, muda a pagina, etc etc, coordenam
+				a comunicacao entre classes de fronteira e entidades)
+				*NAO APLICAM REGRAS DE NEGOCIO*
+			-Entidade(representam a propria informação manipulada
+			pelo sistema)
+				Classes responsáveis por representar as proprias 
+				entidades de negócio do seu sistema. As persistíveis
+				e tal.
+				-REGRAS DE NEGÓCIO
+				-Representam a informação que é manipulada
+				ou processada pelo caso de uso.
+				-Vêm do domínio do negócio.
+				-Normalmente armazenam informações
+				persistentes.
+				
+	
+		

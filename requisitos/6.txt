@@ -1,0 +1,93 @@
+TÉCNICAS DE ELICITAÇÃO:
+	-CASOS DE USO - VISÃO GERAL DO SISTEMA APRESENTADA
+		*São descrições textuais das funcionalidades do sistema
+		a partir da perspectiva do usuário.
+		
+		*Usados para mostrar quais funcionalidades o sistema oferece e 
+		que usuários se comunicam com ele.
+		
+			Casos de uso especificam apenas o comportamento externamente
+		observável do sistema. Casos de uso não se preocupam com detalhes
+		da implementação.
+		
+		Os casos de uso são um conjunto de cenários. Um cenário é uma linha
+		de execução, é uma sucessão de passos que podem resutlar em execução
+		ou falha daquele caso de uso.
+			Portanto, os casos de uso são baseado em cenários.
+			
+		Várias partes interessadas podem fazer uso dos casos de uso:
+			-Clientes e Usuários
+			-Arquitetos
+			-Analistas,Projetistas e implementadores
+			-Testados e gerentes
+			-Escritores da documentação
+		
+		*******casos de teste são gerados
+		a partir de casos de uso*********
+	
+		ESPECIFICAÇÃO DO CASO DE USO
+		DA UMA VISAO DETALHADA DE CASO DE USO
+		UM PASSO A PASSO.
+		
+		NÃO EXISTE UMA ÚNICA FORMA DE ESPECIFICAR CASO DE USO.
+		
+		O QUE TEM EM UM CASO DE USO?
+			-NOME
+			-DESCRIÇÃO
+			-ATORES (POSSO TER ATORES PRIMARIOS E SECUNDARIOS) ATOR PRIMARIO É O CARA
+			QUE INICIA O CASO DE USO
+			-PRÉ-CONDIÇÃO (CONDIÇÃO QUE DEVE SER SATISFEITA ANTES
+							DE INICIAR O CASO DE USO)
+			-FLUXO PRINCIPAL DE EVENTOS
+				AQUI É O CAMINHO FELIZ
+			-FLUXO ALTERNATIVO OU DE EXCESSÃO (FACULTÁVEL) É UMA OPÇÃO
+			DENTRO DO CASO DE USO
+				-ALTERNATIVO É UM FLUXO NORMAL
+				-EXCESSÃO É ANOMALIA (ERRO)
+				
+			----------------------------------------------
+				PONTO DE EXTENSÃO É UM COMPORTAMENTO OPCIONAL DO SISTEMA,
+				E ESTE PONTO DE EXTENSÃO PODE ESTAR AMARRADO NA DESCRIÇÃO DOS CASOS 
+				DE USO. QUANDO HÁ EXTENSÃO EXTENDE PARA OUTRO CASO DE USO. ESSA
+				É A DIFERENÇA.
+				
+				PONTO DE INCLUSÃO É PASSO OBRIGATÓRIO DO SISTEMA.
+			----------------------------------------------
+			
+			PÓS CONDIÇÕES:
+				-É ALDO DEVERÁ TER OCORRIDO APÓS O TERMINO DO CASO DE USO.
+				
+				
+			CASO DE USO TAMBÉM PODE CONTER:
+				-REQUISITOS NÃO FUNCIONAIS RELACIONAIS
+				-DIAGRAMA DE ATIVIDADES RELACIONADO
+				-PROTOTIPO DE ITNERFACE
+				-OUTROS DIAGRAMAS
+	
+			O IMPORTANTE É QUE AS NECESSIDADES SEJAM ATENDIDAS
+			E ACORDADAS POR TODAS AS PARTES INTERESSADAS!
+			
+	-DIAGRAMAS DE CASO DE USO É DIFERENTE DE ESPECIFICAÇÃO DE CASO DE USO
+		*VISÃO DE ALTO NÍVEL DAS FUNCIONALIDADES PROVIDAS
+		PELO O SISTEMA.
+		
+		*SERVEM PARA FACILITAR O ENTENDIMENTO DE UM SISTEMA
+		MOSTRANDO SUA VISAO EXTERNA.
+		
+		*SÃO USADOS PARA MODELO O CONTEXTO DE UM SISTEMA OU 
+		UM SUBSISTEMA.
+		
+		*ATOR É SEMPRE UMA ENTIDADE EXTERNA AO SISTEMA.
+		
+		ATORES:
+			CASOS DE USO SÃO EXECUTADOS POR ATORES
+			ELES CONSTITUEM AS ENTIDADES EXTERNAS SEMPRE
+			ATORES NÃO NECESSARIAMENTE USUÁRIOS, PODEM SER UM SISTEMA OU HARDWARE
+			
+			PODE TER HERANÇA
+			
+		
+		
+		
+		
+		
